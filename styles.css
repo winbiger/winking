@@ -1,0 +1,334 @@
+/* 基础样式 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+#controls {
+    text-align: center;
+    padding: 10px;
+}
+
+#total-expenditure {
+    text-align: center;
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.calendar {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+}
+
+.calendar th,
+.calendar td {
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 8px;
+}
+
+.calendar a.day-cell {
+    cursor: pointer;
+    color: blue;
+    text-decoration: none;
+}
+
+/* 弹出窗口样式 */
+#modal {
+    display: none;
+    justify-content: center;
+    align-items: baseline;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 6px;
+    z-index: 1000;
+    box-sizing: border-box;
+}
+
+/* 弹出窗口内容部分 */
+#modal-details {
+    text-align: center;
+    background-color: #fff;
+    padding: 0;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    max-height: 90%;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 1mm;
+}
+
+/* 弹出窗口关闭按钮 */
+#modal-close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    width: 20px;
+    height: 20px;
+    background-color: transparent;
+    border: none;
+    color: #333;
+    font-size: 14px;
+    text-align: center;
+    line-height: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#modal-close:hover {
+    background-color: #ddd;
+    color: #333;
+}
+
+/* 弹出窗口标题样式 */
+#modal h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-left: 8px;
+}
+
+/* 弹出窗口表格 */
+#modal table {
+    width: 100%;
+    margin: 0;
+    border-collapse: collapse;
+}
+
+#modal td,
+#modal th {
+    padding: 4px;
+    border: 1px solid #ddd;
+    text-align: left;
+    white-space: nowrap;
+}
+
+#modal td.product-name {
+    max-width: 180px;
+    overflow-x: auto;
+    word-wrap: normal;
+}
+
+/* 适用于面板中的表格 */
+.panel table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.panel th,
+.panel td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+    vertical-align: middle;
+    line-height: 1.8;
+}
+
+/* 小字体样式 */
+.daily-expense {
+    font-size: 12px;
+    color: green;
+    margin-top: 4px;
+    text-align: center;
+}
+
+/* 调整按钮样式 */
+button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+button#prev-month,
+button#next-month {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: none;
+    font-size: 12px;
+    color: blue;
+    cursor: pointer;
+    padding: 4px 10px;
+}
+
+button#prev-month {
+    float: left;
+}
+
+button#next-month {
+    float: right;
+}
+
+button#prev-month:hover,
+button#next-month:hover {
+    text-decoration: underline;
+    color: darkblue;
+}
+
+/* 为上一月按钮添加左箭头 */
+button#prev-month::before {
+    content: '←';
+    font-size: 10px;
+    margin-right: 5px;
+    align-self: flex-start;
+    /* 确保箭头垂直居中 */
+}
+
+/* 为下一月按钮添加右箭头 */
+button#next-month::after {
+    content: '→';
+    font-size: 10px;
+    margin-left: 5px;
+    align-self: flex-start;
+    /* 确保箭头垂直居中 */
+}
+
+/* 包含年份和箭头按钮的 h3 */
+h3 {
+    display: flex;
+    justify-content: center;
+    /* 中心对齐内容 */
+    align-items: center;
+    /* 垂直居中 */
+    gap: 15px;
+    /* 按钮和年份之间的间隔 */
+}
+
+/* 按钮样式 */
+#prev-year,
+#next-year {
+    background-color: transparent;
+    border: none;
+    color: #4CAF50;
+    /* 按钮文字颜色 */
+    font-size: 0.8em;
+    /* 设置箭头字体大小 */
+    cursor: pointer;
+    padding: 0;
+    transition: color 0.3s ease, transform 0.3s ease;
+    /* 添加过渡效果 */
+    /* line-height: 40px; */
+    /* 设置行高与高度相等，内容垂直居中 */
+    display: flex;
+    /* 启用 Flexbox */
+    justify-content: center;
+    /* 水平居中 */
+    align-self: flex-start;
+    height: 22px;
+    /* 设置按钮的高度 */
+    width: 8px;
+    /* 设置按钮的宽度 */
+}
+
+/* 鼠标悬停时的效果 */
+#prev-year:hover,
+#next-year:hover {
+    color: #ffffff;
+    /* 悬停时箭头颜色 */
+    background-color: #4CAF50;
+    /* 悬停时按钮背景颜色 */
+    transform: scale(1.2);
+    /* 放大按钮 */
+}
+
+/* 设置按钮之间的间隔 */
+#prev-year {
+    margin-right: 10px;
+    /* 上一年的按钮稍微靠左 */
+}
+
+#next-year {
+    margin-left: 10px;
+    /* 下一年的按钮稍微靠右 */
+}
+
+/* 针对屏幕较小设备的响应式优化 */
+@media (max-width: 768px) {
+    #modal-details {
+        width: 100%;
+    }
+
+    .calendar th,
+    .calendar td {
+        padding: 6px;
+    }
+}
+
+@media (max-width: 480px) {
+    #modal-details {
+        width: 100%;
+    }
+
+    .calendar th,
+    .calendar td {
+        padding: 4px;
+    }
+
+    .calendar {
+        font-size: 14px;
+    }
+}
+
+/* 定义从左到右揭开的动画效果 */
+@keyframes reveal {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: auto;
+    }
+}
+
+.note-popup {
+    position: absolute;
+    background-color: #4CAF50;
+    /* 鲜艳的绿色背景色 */
+    color: white;
+    padding: 6px 8px;
+    /* 增加内边距 */
+    border-radius: 5px;
+    font-size: 14px;
+    z-index: 9999;
+    max-width: 300px;
+    /* 设置最大宽度，避免弹窗过宽 */
+    width: auto;
+    /* 自动根据内容调整宽度 */
+    white-space: nowrap;
+    /* 防止文本换行 */
+    word-wrap: break-word;
+    /* 超过最大宽度时换行 */
+    overflow: hidden;
+    /* 防止内容溢出 */
+    animation: reveal 0.01s forwards;
+    /* 动画时长为0.01秒，前进方向 */
+
+    /* 居中显示 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
