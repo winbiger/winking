@@ -13099,7 +13099,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "微信",
-                "note": "罗森(御北路)",
+                "note": "罗森(御北路店)",
                 "items": [
                     { "name": "光明白雪冰砖", "price": 7.80 },
                     { "name": "耐米汉堡雪糕", "price": 12.90 },
@@ -17607,6 +17607,51 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "东北菜馆(栖霞店)",
                 "items": [
                     { "name": "锅包肉+排骨焖豆角土豆+肉三鲜饺子3两+米饭+水溶C100", "price": 117.00 }
+                ]
+            }
+        ],
+        "2025-10-31": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "京穆聚红烧牛肉面(上海康恒路店)",
+                "items": [
+                    { "name": "纯汤牛肉面+煎蛋", "price": 17.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "斯坦福食堂(互联宝地店)",
+                "items": [
+                    { "name": "自选菜饭", "price": 20.83 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "京穆聚红烧牛肉面(上海康恒路店)",
+                "items": [
+                    { "name": "牛肉炒刀削面+煎蛋", "price": 22.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "罗森(御北路店)",
+                "items": [
+                    { "name": "农夫山泉天然雪矿泉水*2", "price": 4.00 },
+                    { "name": "乐事青柠味马铃薯片", "price": 5.20 },
+                    { "name": "乐事意大利红烩马铃薯片", "price": 5.50 },
+                    { "name": "卫龙大面筋麻辣小龙虾风味", "price": 6.80 },
+                    { "name": "大魔王火爆魔芋", "price": 6.80 },
+                    { "name": "优诺蓝莓风味酸奶*2", "price": 15.90 },
+                    { "name": "购物袋XL", "price": 1.20 },
                 ]
             }
         ]
