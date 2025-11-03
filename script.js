@@ -6728,7 +6728,7 @@ document.addEventListener("DOMContentLoaded", function () {
             {
                 "shop": "小象",
                 "items": [
-                    { "name": "百岁山矿泉水 570ml*6(散装)", "price": 12.06 },
+                    { "name": "百岁山矿泉水 570mL*6(散装)", "price": 12.06 },
                     { "name": "怡宝纯净水 6L（3桶）", "price": 24.95 },
                     { "name": "新疆库尔勒香梨约 500g", "price": 10.19 },
                     { "name": "新疆库尔勒香梨约 500g（赠品）", "price": 0.00 },
@@ -16002,7 +16002,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "小象",
                 "items": [
                     { "name": "雪花勇闯天涯superX啤酒听装500ml", "price": 4.77 },
-                    { "name": "百岁山矿泉水570ml*6", "price": 10.34 },
+                    { "name": "百岁山矿泉水570mL*6", "price": 10.34 },
                     { "name": "【有机】MILKDOG每一克4.0厚酸奶400g", "price": 7.97 },
                     { "name": "元气森林柠檬味气泡水480ml*3瓶", "price": 10.42 }
                 ]
@@ -17019,7 +17019,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "叮咚",
                 "items": [
                     { "name": "源氏大豆筋200g", "price": 8.29 },
-                    { "name": "百岁山矿泉水570ml*6瓶", "price": 12.80 }
+                    { "name": "百岁山矿泉水570mL*6瓶", "price": 12.80 }
                 ]
             }
         ],
@@ -17232,7 +17232,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "美团",
                 "note": "关东小磨东北菜(新达汇三林店)",
                 "items": [
-                    { "name": "炝拌酸辣土豆丝+百岁山(570ml)+东北大米饭", "price": 9.00 }
+                    { "name": "炝拌酸辣土豆丝+百岁山(570mL)+东北大米饭", "price": 9.00 }
                 ]
             }, {
                 "shop": "京东",
@@ -17343,7 +17343,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "京东",
                 "note": "关东小磨东北菜(新达汇三林店)",
                 "items": [
-                    { "name": "五花肉焖豆角+东北大米饭+百岁山570ml*2", "price": 18.00 }
+                    { "name": "五花肉焖豆角+东北大米饭+百岁山570mL*2", "price": 18.00 }
                 ]
             }, {
                 "shop": "京东",
@@ -17382,7 +17382,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "京东",
                 "note": "关东小磨东北菜(新达汇三林店)",
                 "items": [
-                    { "name": "尖椒东北干豆腐+酱炒土鸡蛋+百岁山570ml", "price": 19.36 }
+                    { "name": "尖椒东北干豆腐+酱炒土鸡蛋+百岁山570mL", "price": 19.36 }
                 ]
             }, {
                 "shop": "天猫",
@@ -17459,11 +17459,11 @@ document.addEventListener("DOMContentLoaded", function () {
             }, {
                 "shop": "小象",
                 "items": [
-                    { "name": "百岁山矿泉水570ml*6", "price": 10.99 },
+                    { "name": "百岁山矿泉水570mL*6", "price": 10.99 },
                     { "name": "优诺7.3g蛋白水嫩白桃风味希腊酸奶120g*2", "price": 12.51 },
                     { "name": "野人日记魔芋燕麦鸡胸肉蒸饺360g(18个)", "price": 15.77 },
                     { "name": "【鲜面点】象大厨苞谷粑粑200g(3只装)", "price": 6.30 },
-                    { "name": "阿尔卑斯饮用天然泉水550ml*12", "price": 8.92 }
+                    { "name": "阿尔卑斯饮用天然泉水550mL*12", "price": 8.92 }
                 ]
             }
         ],
@@ -17718,6 +17718,50 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "阿月煲(海阳路店)",
                 "items": [
                     { "name": "租充电宝28分钟", "price": 2.00 }
+                ]
+            }
+        ],
+        "2025-11-03": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路⇌中华艺术宫", "price": 8.00 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "张雁林兰州牛肉面(互联宝地店)",
+                "items": [
+                    { "name": "招牌大片牛肉面", "price": 23.90 }
+                ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "卫龙大面筋106g", "price": 8.83 },
+                    { "name": "百岁山矿泉水570mL*6", "price": 10.63 },
+                    { "name": "百岁山饮用天然矿泉水4.5L", "price": 12.16 },
+                    { "name": "东江湖蜜桔800g", "price": 8.55 },
+                    { "name": "紫晶芋紫薯500g", "price": 8.82 },
+                    { "name": "有友山椒味泡凤爪138g", "price": 11.62 },
+                    { "name": "怡宝天然水5L*2桶", "price": 11.57 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "上海陆家嘴(集团)有限公司",
+                "items": [
+                    { "name": "固定租金(2025/11/15-2026/02/14)数智天地悦庭10", "price": 10980.00 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "毒蛇面馆(世博天地店)",
+                "items": [
+                    { "name": "辣么好吃的基围虾面+冰箱贴", "price": 39.00 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "毒蛇面馆(世博天地店)",
+                "items": [
+                    { "name": "响油鳝丝拌面", "price": 44.00 }
                 ]
             }
         ]
