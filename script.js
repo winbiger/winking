@@ -17582,13 +17582,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "支",
                 "note": "上海公共交通卡股份有限公司",
                 "items": [
-                    { "name": "上海地铁-康恒路⇌宁国路⇌浦东大道", "price": 12.00 }
+                    { "name": "上海地铁-康恒路⇌宁国路⇌浦东大道", "price": 10.00 }
                 ]
             }, {
                 "shop": "支",
                 "note": "上海公共交通卡股份有限公司",
                 "items": [
-                    { "name": "上海地铁-康恒路⇌宁国路⇌浦东大道", "price": 12.00 }
+                    { "name": "上海地铁-康恒路⇌宁国路⇌浦东大道", "price": 10.00 }
                 ]
             }, {
                 "shop": "微信",
@@ -17762,6 +17762,33 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "毒蛇面馆(世博天地店)",
                 "items": [
                     { "name": "响油鳝丝拌面", "price": 44.00 }
+                ]
+            }
+        ],
+        "2025-11-04": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路⇌杨思", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "喜家德(互联宝地店)",
+                "items": [
+                    { "name": "西芹鲜肉水饺15只+南瓜饮", "price": 31.50 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "川为食族(板泉路店)",
+                "items": [
+                    { "name": "小炒黄牛肉+椒盐排条+米饭*2+餐具*2", "price": 124.00 }
                 ]
             }
         ]
