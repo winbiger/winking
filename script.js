@@ -12285,7 +12285,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "故乡妈妈朝鲜族汤饭(复地活力城店)",
+                "note": "故乡妈妈·朝鲜族汤饭(复地活力城店)",
                 "items": [
                     { "name": "特色辣牛肉汤+送泡菜+米饭", "price": 23.80 }
                 ]
@@ -17847,7 +17847,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "微信",
-                "note": "故乡妈妈朝鲜族汤饭(互联宝地店)",
+                "note": "故乡妈妈·朝鲜族汤饭(互联宝地店)",
                 "items": [
                     { "name": "鸡丝海带汤饭", "price": 26.00 }
                 ]
@@ -18020,7 +18020,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "京东",
                 "note": "海澜之家内衣京东自营旗舰店",
                 "items": [
-                    { "name": "海澜之家男士秋裤25新纯棉黑色+墨兰2条装", "price": 63.70 }
+                    { "name": "海澜之家男士秋裤纯棉黑色+墨蓝2条装", "price": 63.70 }
                 ]
             }, {
                 "shop": "京东",
@@ -18239,7 +18239,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "胡子大厨·超级小炒肉(三林新达汇店)",
+                "note": "胡子大厨·超级小炒肉(互联宝地店)",
                 "items": [
                     { "name": "小炒肉+土豆丝+米饭", "price": 17.80 }
                 ]
@@ -18262,6 +18262,82 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "小象鲜黄牛潮汕肉片双拼240g(嫩肉+吊龙)", "price": 32.00 },
                     { "name": "象大厨原浆鲜腐竹150g", "price": 8.77 },
                     { "name": "进口谷饲双椒风味涮烤牛肉150g", "price": 16.84 }
+                ]
+            }
+        ],
+        "2025-11-15": [
+            {
+                "shop": "美团",
+                "items": [
+                    { "name": "单车 17:26 时长:19分6秒", "price": 2.50 }
+                ]
+            }, {
+                "shop": "美团",
+                "items": [
+                    { "name": "单车 17:26 时长:21分54秒", "price": 2.50 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "肥汁米籣(大食代前滩太古里店)",
+                "items": [
+                    { "name": "招牌炸酱小锅米线", "price": 33.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "南玉排骨饭(大食代前滩太古里店)",
+                "items": [
+                    { "name": "爆汁酱烧排骨饭", "price": 38.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "礼厚茶肆(前滩太古里店)",
+                "items": [
+                    { "name": "空山茉莉功夫鲜奶茶", "price": 17.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "立白京东自营旗舰店",
+                "items": [
+                    { "name": "立白大师香氛洗衣粉蓝风铃香3斤", "price": 20.53 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "立白京东自营旗舰店",
+                "items": [
+                    { "name": "立白小白白小白鞋清洁剂100g", "price": 5.90 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "杰士邦京东自营旗舰店",
+                "items": [
+                    { "name": "杰士邦草莓味润滑液120g", "price": 8.49 }
+                ]
+            }
+        ],
+        "2025-11-16": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "故乡妈妈·朝鲜族汤饭(互联宝地店)",
+                "items": [
+                    { "name": "辣肥牛嫩豆腐汤+泡菜+米饭", "price": 22.79 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "大米先生(复地活力城店)",
+                "items": [
+                    { "name": "爆炒牛肉+杂粮饭+元气森林280ML", "price": 20.69 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "秦碗会·陕西BiangBiang面(开新里店)",
+                "items": [
+                    { "name": "白鹿原油泼面-扯面+煎蛋", "price": 13.38 }
                 ]
             }
         ]
