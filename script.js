@@ -14349,7 +14349,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "酸辣去骨鸡爪+苗家非遗酸汤鱼+酸菜炒汤圆+生菜+稻花香大米饭*2+多C刺梨汁*2", "price": 142.00 }
                 ]
             }, {
-                "shop": "饿了",
+                "shop": "盒马",
                 "note": "盒马鲜生(御桥活力城店)",
                 "items": [
                     { "name": "新西兰加力果4粒装600g", "price": 18.82 }
@@ -18371,6 +18371,49 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "十月稻田京东自营旗舰店",
                 "items": [
                     { "name": "十月稻田长粒香大米2.5kg", "price": 17.45 }
+                ]
+            }, {
+                "shop": "天猫",
+                "note": "glasslock旗舰店",
+                "items": [
+                    { "name": "glasslock盖朗进口长方形玻璃便当盒1100ML", "price": 56.05 }
+                ]
+            }
+        ],
+        "2025-11-18": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "大米先生(复地活力城店)",
+                "items": [
+                    { "name": "辣椒炒肉+西红柿炒鸡蛋+白米饭+元气森林280ML", "price": 11.89 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "CGV复地活力城影院",
+                "items": [
+                    { "name": "疯狂动物城2*2", "price": 109.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "盒马鲜生(御桥活力城店)",
+                "items": [
+                    { "name": "冰鲜原切澳洲谷饲牛腱肉1kg", "price": 75.90 },
+                    { "name": "省钱卡", "price": 1.99 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "乐购汪(御桥中心店)",
+                "items": [
+                    { "name": "苏菲超熟睡420柔棉感夜用卫生巾 8巾/包", "price": 8.57 },
+                    { "name": "大窑汽水碳酸饮料480ML", "price": 3.86 },
+                    { "name": "高洁丝海岛奢宠纯棉日用卫生巾 8片/包", "price": 9.96 },
+                    { "name": "妙洁点断刀撕PE保鲜膜 50M*30CM", "price": 11.42 }
                 ]
             }
         ]
