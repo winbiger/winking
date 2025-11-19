@@ -18372,12 +18372,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "十月稻田长粒香大米2.5kg", "price": 17.45 }
                 ]
-            }, {
-                "shop": "天猫",
-                "note": "glasslock旗舰店",
-                "items": [
-                    { "name": "glasslock盖朗进口长方形玻璃便当盒1100ML", "price": 56.05 }
-                ]
             }
         ],
         "2025-11-18": [
@@ -18400,7 +18394,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "疯狂动物城2*2", "price": 109.00 }
                 ]
             }, {
-                "shop": "饿了",
+                "shop": "盒马",
                 "note": "盒马鲜生(御桥活力城店)",
                 "items": [
                     { "name": "冰鲜原切澳洲谷饲牛腱肉1kg", "price": 75.90 },
@@ -18414,6 +18408,50 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "大窑汽水碳酸饮料480ML", "price": 3.86 },
                     { "name": "高洁丝海岛奢宠纯棉日用卫生巾 8片/包", "price": 9.96 },
                     { "name": "妙洁点断刀撕PE保鲜膜 50M*30CM", "price": 11.42 }
+                ]
+            }
+        ],
+        "2025-11-19": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "items": [
+                    { "name": "小炒肉+土豆丝+米饭", "price": 17.67 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "胡子大厨·超级小炒肉(三林新达汇店)",
+                "items": [
+                    { "name": "小炒肉+土豆丝+米饭", "price": 17.80 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "盒马鲜生(御桥活力城店)",
+                "items": [
+                    { "name": "盒马有机富硒土鸡蛋10枚", "price": 15.15 },
+                    { "name": "盒马工坊大红肠", "price": 20.47 },
+                    { "name": "崇明松花菜500g", "price": 6.08 },
+                    { "name": "粉红番茄500g", "price": 6.08 }
+                ]
+            }, {
+                "shop": "天猫",
+                "note": "乐扣乐扣旗舰店",
+                "items": [
+                    { "name": "乐扣乐扣玻璃饭盒1000ML长方形白色", "price": 42.65 }
+                ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "小象烘焙原味+伯爵茶味瑞士卷400g(8枚)", "price": 18.90 },
+                    { "name": "飞旺长沙臭干子80g", "price": 3.50 },
+                    { "name": "优诺0蔗糖希腊式酸奶坚果谷物杯135g*2", "price": 15.80 },
+                    { "name": "东江湖蜜桔800g", "price": 7.90 }
                 ]
             }
         ]
