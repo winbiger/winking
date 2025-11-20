@@ -18431,7 +18431,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "小炒肉+土豆丝+米饭", "price": 17.80 }
                 ]
             }, {
-                "shop": "饿了",
+                "shop": "盒马",
                 "note": "盒马鲜生(御桥活力城店)",
                 "items": [
                     { "name": "盒马有机富硒土鸡蛋10枚", "price": 15.15 },
@@ -18452,6 +18452,36 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "飞旺长沙臭干子80g", "price": 3.50 },
                     { "name": "优诺0蔗糖希腊式酸奶坚果谷物杯135g*2", "price": 15.80 },
                     { "name": "东江湖蜜桔800g", "price": 7.90 }
+                ]
+            }
+        ],
+        "2025-11-20": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "楚褚热干面(互联宝地店)",
+                "items": [
+                    { "name": "原味热干面+手工桂花酿+虎皮鸡蛋", "price": 18.90 }
+                ]
+            }, {
+                "shop": "盒马",
+                "note": "盒马鲜生(御桥活力城店)",
+                "items": [
+                    { "name": "盒马手作纸皮烧卖360g", "price": 8.65 },
+                    { "name": "盒马工坊肉丸什锦砂锅", "price": 21.76 },
+                    { "name": "不倒翁原味金拉面120g*5袋", "price": 24.90 },
+                    { "name": "秋林里道斯哈尔滨红肠110g", "price": 13.89 }
                 ]
             }
         ]
