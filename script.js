@@ -18440,12 +18440,6 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "粉红番茄500g", "price": 6.08 }
                 ]
             }, {
-                "shop": "天猫",
-                "note": "乐扣乐扣旗舰店",
-                "items": [
-                    { "name": "乐扣乐扣玻璃饭盒1000ML长方形白色", "price": 42.65 }
-                ]
-            }, {
                 "shop": "小象",
                 "items": [
                     { "name": "小象烘焙原味+伯爵茶味瑞士卷400g(8枚)", "price": 18.90 },
@@ -18482,6 +18476,40 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "盒马工坊肉丸什锦砂锅", "price": 21.76 },
                     { "name": "不倒翁原味金拉面120g*5袋", "price": 24.90 },
                     { "name": "秋林里道斯哈尔滨红肠110g", "price": 13.89 }
+                ]
+            }
+        ],
+        "2025-11-21": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "成都你六姐·牛肉冒菜(上海互联宝地店)",
+                "items": [
+                    { "name": "超厚午餐肉套餐+米饭+六姐骨汤", "price": 29.90 }
+                ]
+            }, {
+                "shop": "叮咚",
+                "items": [
+                    { "name": "农夫山泉桶装水5L*4桶", "price": 31.60 },
+                    { "name": "螺丝椒300g", "price": 5.39 },
+                    { "name": "酒泉红洋葱500g", "price": 3.19 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "京穆聚红烧牛肉面(上海康恒路店)",
+                "items": [
+                    { "name": "纯汤牛肉面+煎蛋", "price": 17.00 }
                 ]
             }
         ]
