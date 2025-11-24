@@ -18570,6 +18570,32 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "亚麻籽手工猪肉丸250g", "price": 12.80 }
                 ]
             }
+        ],
+        "2025-11-24": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "mini小饭堂",
+                "items": [
+                    { "name": "三菜一饭", "price": 10.00 }
+                ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "【本地鲜】崇明青甘蓝700g", "price": 6.22 },
+                    { "name": "三红胡萝卜600g", "price": 2.40 },
+                    { "name": "【经典红肠】山林大红肠260g", "price": 14.15 },
+                    { "name": "湘香软皮辣椒200g", "price": 7.65 },
+                    { "name": "野人日记魔芋燕麦鸡胸肉蒸饺360g(18个)", "price": 12.37 },
+                    { "name": "进口香蕉750g", "price": 7.11 },
+                    { "name": "【有机】OMEGA-3叶黄素富硒鲜鸡蛋8枚336g", "price": 14.66 }
+                ]
+            }
         ]
 
 
