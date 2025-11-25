@@ -18552,7 +18552,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "抖音",
                 "note": "京元盛铜锅涮肉(浦东三纲里店)",
                 "items": [
-                    { "name": "【肉食盛宴】单人牛肋排海鲜烧烤涮肉牛蛙自助", "price": 153.56 }
+                    { "name": "【肉食盛宴】单人牛肋排海鲜烧烤涮肉牛蛙自助", "price": 149.00 }
                 ]
             }, {
                 "shop": "抖音",
@@ -18594,6 +18594,40 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "野人日记魔芋燕麦鸡胸肉蒸饺360g(18个)", "price": 12.37 },
                     { "name": "进口香蕉750g", "price": 7.11 },
                     { "name": "【有机】OMEGA-3叶黄素富硒鲜鸡蛋8枚336g", "price": 14.66 }
+                ]
+            }
+        ],
+        "2025-11-25": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "螺丝椒300g", "price": 5.39 },
+                    { "name": "三红胡萝卜600g", "price": 2.42 },
+                    { "name": "陕西洛川红富士苹果4粒装700g", "price": 12.41 }
+                    { "name": "慢养黑猪冷鲜里脊300g", "price": 14.92 },
+                    { "name": "冰鲜鱿鱼1条200-300g", "price": 17.89 },
+                    { "name": "一次性筷子20cm", "price": 0.15 }
+                ]
+            }, {
+                "shop": "盒马",
+                "note": "盒马鲜生(御桥活力城店)",
+                "items": [
+                    { "name": "去皮红洋葱500g", "price": 2.87 },
+                    { "name": "盒马日日鲜香芹400g", "price": 5.38 },
+                    { "name": "鹃城牌红油郫县豆瓣500g", "price": 8.89 },
+                    { "name": "鲜无抗黑牛谷饲嫩牛肉200g", "price": 26.86 },
+                    { "name": "杭椒150g", "price": 2.24 },
+                    { "name": "孜然粉28g", "price": 5.66 },
+                    { "name": "冰鲜笔管鱿鱼250g", "price": 14.28 },
+                    { "name": "远洋全清脆口须200g", "price": 12.48 },
+                    { "name": "临安丝滑小香薯500g", "price": 7.00 },
+                    { "name": "透心红胡萝卜500g", "price": 2.69 }
                 ]
             }
         ]
