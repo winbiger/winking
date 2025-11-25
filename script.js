@@ -18609,7 +18609,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "螺丝椒300g", "price": 5.39 },
                     { "name": "三红胡萝卜600g", "price": 2.42 },
-                    { "name": "陕西洛川红富士苹果4粒装700g", "price": 12.41 }
+                    { "name": "陕西洛川红富士苹果4粒装700g", "price": 12.41 },
                     { "name": "慢养黑猪冷鲜里脊300g", "price": 14.92 },
                     { "name": "冰鲜鱿鱼1条200-300g", "price": 17.89 },
                     { "name": "一次性筷子20cm", "price": 0.15 }
