@@ -18650,6 +18650,33 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "DHA叶黄素鲜鸡蛋10枚500g", "price": 11.67 }
                 ]
             }
+        ],
+        "2025-11-27": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "mini小饭堂",
+                "items": [
+                    { "name": "三菜一饭", "price": 10.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "麦德龙(上海浦东商场)",
+                "items": [
+                    { "name": "国产小炒牛肉片305g", "price": 36.30 },
+                    { "name": "麦臻选营养谷物鲜鸡蛋20枚", "price": 29.80 },
+                    { "name": "秘卤肉肠1根", "price": 16.80 },
+                    { "name": "澳洲谷饲100天薄切肥牛678g", "price": 75.94 },
+                    { "name": "立丰腊肠250g", "price": 47.50 },
+                    { "name": "酸奶味大麻花", "price": 12.90 },
+                    { "name": "榴莲千层蛋糕470g", "price": 41.93 }
+                ]
+            }
         ]
 
 
