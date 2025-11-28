@@ -18550,13 +18550,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "抖音",
-                "note": "京元盛铜锅涮肉(浦东三纲里店)",
+                "note": "京元盛铜锅涮肉(浦东三钢里店)",
                 "items": [
                     { "name": "【肉食盛宴】单人牛肋排海鲜烧烤涮肉牛蛙自助", "price": 149.00 }
                 ]
             }, {
                 "shop": "抖音",
-                "note": "京元盛铜锅涮肉(浦东三纲里店)",
+                "note": "京元盛铜锅涮肉(浦东三钢里店)",
                 "items": [
                     { "name": "【肉食盛宴】单人牛肋排海鲜烧烤涮肉牛蛙自助", "price": 144.56 }
                 ]
@@ -18675,6 +18675,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "立丰腊肠250g", "price": 47.50 },
                     { "name": "酸奶味大麻花", "price": 12.90 },
                     { "name": "榴莲千层蛋糕470g", "price": 41.93 }
+                ]
+            }
+        ],
+        "2025-11-28": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路⇌成山路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "京元盛铜锅涮肉(浦东三钢里店)",
+                "items": [
+                    { "name": "鸳鸯锅底", "price": 10.00 }
                 ]
             }
         ]
