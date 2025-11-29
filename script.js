@@ -15141,7 +15141,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海新达汇三林店)",
                 "items": [
                     { "name": "尖椒干豆腐", "price": 19.00 }
                 ]
@@ -15393,7 +15393,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海新达汇三林店)",
                 "items": [
                     { "name": "京酱肉丝", "price": 20.00 }
                 ]
@@ -15575,13 +15575,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海新达汇三林店)",
                 "items": [
                     { "name": "火爆鱿鱼须+东北大米饭", "price": 33.00 }
                 ]
             }, {
                 "shop": "京东",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海新达汇三林店)",
                 "items": [
                     { "name": "小份锅包肉+拆骨肉炖酸菜+东北大米饭", "price": 36.00 }
                 ]
@@ -15837,7 +15837,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海新达汇三林店)",
                 "items": [
                     { "name": "炝拌酸辣土豆丝+酱炒土鸡蛋+东北大米饭", "price": 32.00 }
                 ]
@@ -16881,7 +16881,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海三林新达汇店)",
                 "items": [
                     { "name": "地三鲜+尖椒东北干豆腐+东北大米饭", "price": 18.77 }
                 ]
@@ -17224,19 +17224,19 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "美团",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海三林新达汇店)",
                 "items": [
                     { "name": "白菜猪肉馅水饺12只", "price": 5.00 }
                 ]
             }, {
                 "shop": "饿了",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海三林新达汇店)",
                 "items": [
                     { "name": "京酱肉丝", "price": 18.00 }
                 ]
             }, {
                 "shop": "美团",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海三林新达汇店)",
                 "items": [
                     { "name": "炝拌酸辣土豆丝+百岁山(570mL)+东北大米饭", "price": 9.00 }
                 ]
@@ -17341,13 +17341,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海三林新达汇店)",
                 "items": [
                     { "name": "手工粗粮大拉皮+东北大米饭", "price": 22.04 }
                 ]
             }, {
                 "shop": "京东",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海三林新达汇店)",
                 "items": [
                     { "name": "五花肉焖豆角+东北大米饭+百岁山570mL*2", "price": 18.00 }
                 ]
@@ -17386,7 +17386,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海三林新达汇店)",
                 "items": [
                     { "name": "尖椒东北干豆腐+酱炒土鸡蛋+百岁山570mL", "price": 19.36 }
                 ]
@@ -17703,7 +17703,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海三林新达汇店)",
                 "items": [
                     { "name": "西红柿炒鸡蛋+锅包肉+米饭", "price": 19.00 }
                 ]
@@ -18171,7 +18171,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "关东小磨东北菜(新达汇三林店)",
+                "note": "关东小磨东北菜(上海三林新达汇店)",
                 "items": [
                     { "name": "手工粗粮大拉皮+东北大米饭", "price": 21.14 }
                 ]
@@ -18549,7 +18549,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
                 ]
             }, {
-                "shop": "抖音",
+                "shop": "美团",
                 "note": "京元盛铜锅涮肉(浦东三钢里店)",
                 "items": [
                     { "name": "【肉食盛宴】单人牛肋排海鲜烧烤涮肉牛蛙自助", "price": 149.00 }
@@ -18696,6 +18696,33 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "京元盛铜锅涮肉(浦东三钢里店)",
                 "items": [
                     { "name": "鸳鸯锅底", "price": 10.00 }
+                ]
+            }
+        ],
+        "2025-11-29": [
+            {
+                "shop": "美团",
+                "note": "小杨生煎(上海复地活力城店)",
+                "items": [
+                    { "name": "三拼蟹粉大虾猪肉生煎+酸辣粉", "price": 38.30 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "关东小磨东北菜(上海三林新达汇店)",
+                "items": [
+                    { "name": "关东小炒肉+尖椒干豆腐+地三鲜+米饭", "price": 22.18 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "珠梦乐(复地活力城店)",
+                "items": [
+                    { "name": "玩游戏机30分钟", "price": 0.01 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "牛腩之旅(复地活力城店)",
+                "items": [
+                    { "name": "牛腩牛筋双拼煲+蔬菜自助*2+脆炸腐皮+火锅面+海南鸡浇头+卤鸡爪*3", "price": 196.00 }
                 ]
             }
         ]
