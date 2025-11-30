@@ -12204,7 +12204,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
                 "items": [
                     { "name": "小炒肉+土豆丝+米饭", "price": 19.50 }
                 ]
@@ -12340,7 +12340,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
                 "items": [
                     { "name": "小炒肉+番茄炒蛋+米饭", "price": 22.90 }
                 ]
@@ -12379,7 +12379,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
                 "items": [
                     { "name": "酱椒炒鸡+番茄炒蛋+米饭", "price": 23.90 }
                 ]
@@ -12860,7 +12860,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "美团",
-                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
                 "items": [
                     { "name": "永康香干+西红柿炒鸡蛋+超级小炒肉+米饭", "price": 24.00 }
                 ]
@@ -13167,7 +13167,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
                 "items": [
                     { "name": "小炒肉+土豆丝+米饭", "price": 19.40 }
                 ]
@@ -13570,7 +13570,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
                 "items": [
                     { "name": "小炒肉+番茄炒蛋+米饭", "price": 20.90 }
                 ]
@@ -13766,7 +13766,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
                 "items": [
                     { "name": "小炒肉+土豆丝+米饭", "price": 19.50 }
                 ]
@@ -14266,7 +14266,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
                 "items": [
                     { "name": "小炒肉+番茄炒蛋+米饭", "price": 22.50 }
                 ]
@@ -15297,7 +15297,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
                 "items": [
                     { "name": "小炒肉+番茄炒蛋+米饭", "price": 20.90 }
                 ]
@@ -15387,7 +15387,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
                 "items": [
                     { "name": "小炒肉+番茄炒蛋+米饭", "price": 20.80 }
                 ]
@@ -15666,7 +15666,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "胡子大厨·超级小炒肉(三林新达汇店)",
+                "note": "胡子大厨·湖南小炒(三林新达汇店)",
                 "items": [
                     { "name": "小炒肉+鱼香茄子+麻婆豆腐+米饭", "price": 22.90 }
                 ]
@@ -16214,7 +16214,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "美团",
-                "note": "胡子大厨·超级小炒肉(三林新达汇店)",
+                "note": "胡子大厨·湖南小炒(三林新达汇店)",
                 "items": [
                     { "name": "永康香干+西红柿炒鸡蛋+超级小炒肉+米饭", "price": 25.60 }
                 ]
@@ -16295,7 +16295,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "胡子大厨·超级小炒肉(三林新达汇店)",
+                "note": "胡子大厨·湖南小炒(三林新达汇店)",
                 "items": [
                     { "name": "酸包菜炒粉皮+米饭", "price": 13.80 }
                 ]
@@ -16914,7 +16914,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "美团",
-                "note": "胡子大厨·超级小炒肉(三林新达汇店)",
+                "note": "胡子大厨·湖南小炒(三林新达汇店)",
                 "items": [
                     { "name": "小炒肉+土豆丝+米饭", "price": 18.60 }
                 ]
@@ -17509,7 +17509,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "支",
-                "note": "椒锅锅(互联宝地店)",
+                "note": "椒锅锅现炒麻辣香锅(互联宝地店)",
                 "items": [
                     { "name": "麻辣香锅自选+米饭", "price": 28.00 }
                 ]
@@ -18155,7 +18155,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "美团",
-                "note": "椒锅锅·麻辣香锅(互联宝地店)",
+                "note": "椒锅锅现炒麻辣香锅(互联宝地店)",
                 "items": [
                     { "name": "浓香麻将拌粉耗子香锅套餐", "price": 26.80 }
                 ]
@@ -18198,7 +18198,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "胡子大厨·超级小炒肉(三林新达汇店)",
+                "note": "胡子大厨·湖南小炒(三林新达汇店)",
                 "items": [
                     { "name": "小炒肉+土豆丝+米饭+无糖可乐", "price": 20.80 }
                 ]
@@ -18239,7 +18239,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
                 "items": [
                     { "name": "小炒肉+土豆丝+米饭", "price": 17.80 }
                 ]
@@ -18350,7 +18350,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "胡子大厨·超级小炒肉(三林新达汇店)",
+                "note": "胡子大厨·湖南小炒(三林新达汇店)",
                 "items": [
                     { "name": "小炒肉+土豆丝+米饭+王老吉", "price": 19.80 }
                 ]
@@ -18420,13 +18420,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "京东",
-                "note": "胡子大厨·超级小炒肉(互联宝地店)",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
                 "items": [
                     { "name": "小炒肉+土豆丝+米饭", "price": 17.67 }
                 ]
             }, {
                 "shop": "京东",
-                "note": "胡子大厨·超级小炒肉(三林新达汇店)",
+                "note": "胡子大厨·湖南小炒(三林新达汇店)",
                 "items": [
                     { "name": "小炒肉+土豆丝+米饭", "price": 17.80 }
                 ]
@@ -18723,6 +18723,42 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "牛腩之旅(复地活力城店)",
                 "items": [
                     { "name": "牛腩牛筋双拼煲+蔬菜自助*2+脆炸腐皮+火锅面+海南鸡浇头+卤鸡爪*3", "price": 196.00 }
+                ]
+            }
+        ],
+        "2025-11-30": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "胡子大厨·湖南小炒(三林新达汇店)",
+                "items": [
+                    { "name": "超级小炒肉+西红柿炒鸡蛋+永康香干+米饭", "price": 19.60 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "椒锅锅现炒麻辣香锅(上海复地活力城店)",
+                "items": [
+                    { "name": "秘制鸡腿肉套餐+米饭+麻辣香辣口味", "price": 20.76 }
+                ]
+            }, {
+                "shop": "叮咚",
+                "items": [
+                    { "name": "有豆志毛豆豆腐圆子160g", "price": 5.99 },
+                    { "name": "有机大白菜1.2kg", "price": 11.90 },
+                    { "name": "农夫山泉桶装水5L*4桶", "price": 31.60 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "麦德龙(上海浦东商场)",
+                "items": [
+                    { "name": "国产小炒牛肉片305g", "price": 22.54 },
+                    { "name": "麦臻选鲜牛奶1L*2", "price": 19.06 },
+                    { "name": "配送费", "price": 15.00 }
                 ]
             }
         ]
