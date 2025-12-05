@@ -18892,6 +18892,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "琯溪红肉蜜柚1.1kg", "price": 9.67 }
                 ]
             }
+        ],
+        "2025-12-05": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "呷哺呷哺火锅(复地活力城店)",
+                "items": [
+                    { "name": "秘制麻酱蒜香肥牛麻辣烫单人套餐", "price": 20.78 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "米村拌饭(复地活力城店)",
+                "items": [
+                    { "name": "肉末茄子煲+米饭", "price": 20.90 }
+                ]
+            }
         ]
 
 
