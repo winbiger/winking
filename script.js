@@ -18974,6 +18974,21 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "新疆天山雪梨1kg", "price": 14.60 }
                 ]
             }
+        ],
+        "2025-12-07": [
+            {
+                "shop": "迪士尼",
+                "note": "上海迪士尼度假区产品",
+                "items": [
+                    { "name": "12月17日成人早鸟票", "price": 425.00 }
+                ]
+            }, {
+                "shop": "迪士尼",
+                "note": "上海迪士尼度假区产品",
+                "items": [
+                    { "name": "12月17日成人早鸟票", "price": 414.92 }
+                ]
+            }
         ]
 
 
