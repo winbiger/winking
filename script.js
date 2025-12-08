@@ -18977,6 +18977,12 @@ document.addEventListener("DOMContentLoaded", function () {
         ],
         "2025-12-07": [
             {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
                 "shop": "迪士尼",
                 "note": "上海迪士尼度假区产品",
                 "items": [
@@ -18987,6 +18993,35 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "上海迪士尼度假区产品",
                 "items": [
                     { "name": "12月17日成人早鸟票", "price": 414.92 }
+                ]
+            }
+        ],
+        "2025-12-08": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "澳洲精修牛腱心1200g", "price": 159.30 }
+                ]
+            }, {
+                "shop": "盒马",
+                "note": "盒马鲜生(御桥活力城店)",
+                "items": [
+                    { "name": "盒马深层天然水5L", "price": 5.75 },
+                    { "name": "农夫山泉饮用天然水5L*2", "price": 15.03 },
+                    { "name": "安心老姜200g", "price": 4.41 },
+                    { "name": "去皮红洋葱500g", "price": 2.64 },
+                    { "name": "当季现挖莲藕500g", "price": 7.95 },
+                    { "name": "云溪蜜薯500g", "price": 7.78 },
+                    { "name": "广西砂糖橘950g", "price": 7.87 },
+                    { "name": "欣和葱伴侣原酿豆瓣酱300g", "price": 6.10 },
+                    { "name": "新黄心土豆1kg", "price": 3.53 }
                 ]
             }
         ]
