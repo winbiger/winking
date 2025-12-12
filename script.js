@@ -19082,6 +19082,12 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
                 ]
             }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
                 "shop": "山姆",
                 "note": "山姆会员店(上海浦东店)",
                 "items": [
@@ -19112,6 +19118,33 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "桑罗帕瑞书桌垫", "price": 0.00 },
                     { "name": "克鲁贝手机支架", "price": 0.00 },
                     { "name": "瑟勒布列达调味罐3件套", "price": 0.00 }
+                ]
+            }
+        ],
+        "2025-12-12": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "益丰大药房(上海浦三路店)",
+                "items": [
+                    { "name": "999小柴胡颗粒10g*9袋/盒", "price": 14.48 },
+                    { "name": "她研社 棉柔卫生巾 290mm*6片/包", "price": 8.20 },
+                    { "name": "一次性3D立体口罩5只", "price": 5.90 },
+                    { "name": "云南白药云峰蒲地蓝消炎片0.3g*24片*2板/盒", "price": 8.50 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "叮咚买菜(康意站)",
+                "items": [
+                    { "name": "源氏大豆筋200g", "price": 6.98 },
+                    { "name": "美汁源果粒橙1.25L", "price": 5.95 },
+                    { "name": "源氏大辣片200g", "price": 7.44 },
+                    { "name": "巴黎含气天然矿泉水330ML*4瓶", "price": 20.53 }
                 ]
             }
         ]
