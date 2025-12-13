@@ -19146,6 +19146,31 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "源氏大辣片200g", "price": 7.44 },
                     { "name": "巴黎含气天然矿泉水330ML*4瓶", "price": 20.53 }
                 ]
+            }, {
+                "shop": "饿了",
+                "note": "关东小磨东北菜(上海三林新达汇店)",
+                "items": [
+                    { "name": "手工粗粮大拉皮", "price": 15.50 }
+                ]
+            }
+        ],
+        "2025-12-13": [
+            {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "猪里脊1.6kg", "price": 66.60 },
+                    { "name": "丹麦式菠萝奶酥6个", "price": 35.80 }
+                ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "双汇鸡肉火腿肠30g*9根", "price": 7.80 },
+                    { "name": "双汇王中王优级火腿肠50g*10", "price": 18.90 },
+                    { "name": "金锣福火腿肠70g", "price": 1.50 },
+                    { "name": "双汇鸡肉肠65g", "price": 3.18 },
+                    { "name": "象大厨马铃薯淀粉300g", "price": 7.90 }
+                ]
             }
         ]
 
