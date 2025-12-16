@@ -18946,7 +18946,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "台式香肠1kg", "price": 47.13 },
                     { "name": "有机胡萝卜1kg", "price": 8.92 },
                     { "name": "鲜牛奶2L", "price": 13.42 },
-                    { "name": "薄皮辣椒1kg", "price": 10.42 }
+                    { "name": "薄皮辣椒1kg", "price": 10.42 },
+                    { "name": "包装费", "price": 2.00 }
                 ]
             }, {
                 "shop": "京东",
@@ -19007,7 +19008,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "山姆",
                 "note": "山姆会员店(上海浦东店)",
                 "items": [
-                    { "name": "澳洲精修牛腱心1200g", "price": 159.30 }
+                    { "name": "澳洲精修牛腱心1200g", "price": 159.30 },
+                    { "name": "包装费", "price": 2.00 }
                 ]
             }, {
                 "shop": "盒马",
@@ -19070,7 +19072,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "山姆会员店(上海浦东店)",
                 "items": [
                     { "name": "深海鳕鱼三明治1PC", "price": 69.90 },
-                    { "name": "调味法式羊排1.2kg", "price": 144.90 }
+                    { "name": "调味法式羊排1.2kg", "price": 144.90 },
+                    { "name": "包装费", "price": 2.00 }
                 ]
             }
         ],
@@ -19093,7 +19096,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "香肠芝士面包9个", "price": 49.90 },
                     { "name": "鲜牛奶全职巴氏杀菌乳2L", "price": 17.90 },
-                    { "name": "澳洲谷饲炒牛肉片1.2kg", "price": 119.80 }
+                    { "name": "澳洲谷饲炒牛肉片1.2kg", "price": 119.80 },
+                    { "name": "包装费", "price": 2.00 }
                 ]
             }, {
                 "shop": "盒马",
@@ -19160,7 +19164,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "山姆会员店(上海浦东店)",
                 "items": [
                     { "name": "猪里脊1.6kg", "price": 66.60 },
-                    { "name": "丹麦式菠萝奶酥6个", "price": 35.80 }
+                    { "name": "丹麦式菠萝奶酥6个", "price": 35.80 },
+                    { "name": "包装费", "price": 2.00 }
                 ]
             }, {
                 "shop": "小象",
@@ -19235,7 +19240,42 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "山姆会员店(上海浦东店)",
                 "items": [
                     { "name": "黄油餐包720g(6包)", "price": 29.90 },
-                    { "name": "韩式烤肉1.2kg", "price": 109.00 }
+                    { "name": "韩式烤肉1.2kg", "price": 109.00 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }
+        ],
+        "2025-12-16": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "温暖你的猪(御桥九六店)",
+                "items": [
+                    { "name": "黑猪辣椒炒肉", "price": 43.12 },
+                    { "name": "韭苔螺蛳肉", "price": 42.24 },
+                    { "name": "大桶米饭", "price": 8.80 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "京穆聚红烧牛肉面(上海康恒路店)",
+                "items": [
+                    { "name": "牛肉刀削面+煎蛋", "price": 18.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "棒棒娃麻辣牛肉560g", "price": 79.80 },
+                    { "name": "超甜蕉1.4kg", "price": 19.90 },
+                    { "name": "原味麻薯24个", "price": 29.80 },
+                    { "name": "长白山天然矿泉水500ml*24瓶", "price": 26.80 },
+                    { "name": "包装费", "price": 1.00 },
+                    { "name": "配送费", "price": 2.00 }
                 ]
             }
         ]
