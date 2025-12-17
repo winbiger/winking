@@ -9631,7 +9631,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "支",
                 "note": "上海公共交通卡股份有限公司",
                 "items": [
-                    { "name": "上海地铁-鹤涛路⇌周浦", "price": 6.00 }
+                    { "name": "上海地铁-鹤涛路⇌周浦站", "price": 6.00 }
                 ]
             }, {
                 "shop": "美团",
@@ -10876,7 +10876,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "支",
                 "note": "上海公共交通卡股份有限公司",
                 "items": [
-                    { "name": "上海地铁-鹤涛路⇌周浦", "price": 6.00 }
+                    { "name": "上海地铁-鹤涛路⇌周浦站", "price": 6.00 }
                 ]
             }, {
                 "shop": "美团",
@@ -15155,7 +15155,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "上海地铁-康恒路⇌南京东路", "price": 8.00 }
                 ]
             }, {
-                "shop": "支",
+                "shop": "微信",
                 "note": "上海公共交通卡股份有限公司",
                 "items": [
                     { "name": "上海地铁-康恒路⇌南京东路", "price": 8.00 }
@@ -19276,6 +19276,38 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "长白山天然矿泉水500ml*24瓶", "price": 26.80 },
                     { "name": "包装费", "price": 1.00 },
                     { "name": "配送费", "price": 2.00 }
+                ]
+            }
+        ],
+        "2025-12-17": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌上海迪士尼乐园站", "price": 4.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌上海迪士尼乐园站", "price": 4.00 }
+                ]
+            }, {
+                "shop": "滴滴",
+                "items": [
+                    { "name": "数智天地悦庭10→上海邻家美利亚酒店东北门", "price": 43.12 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "米奇好伙伴美味集市",
+                "items": [
+                    { "name": "沙茶牛肉面+百事可乐1杯", "price": 98.44 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "米奇好伙伴美味集市",
+                "items": [
+                    { "name": "烤春鸡配炒牛肉和米饭+美年达汽水1杯", "price": 109.00 }
                 ]
             }
         ]
