@@ -19442,6 +19442,25 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "辣椒炒肉+AD钙奶", "price": 9.80 }
                 ]
             }
+        ],
+        "2025-12-22": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "原味麻薯24个", "price": 29.80 },
+                    { "name": "黄心土豆2.5kg", "price": 17.90 },
+                    { "name": "猪肋排1.6kg", "price": 88.50 },
+                    { "name": "弱碱性天然矿泉水300ML*24瓶", "price": 22.80 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }
         ]
 
 
