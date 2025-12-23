@@ -19460,6 +19460,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "弱碱性天然矿泉水300ML*24瓶", "price": 22.80 },
                     { "name": "包装费", "price": 2.00 }
                 ]
+            }, {
+                "shop": "叮咚",
+                "items": [
+                    { "name": "心相印厨房专用纸巾2卷/袋", "price": 9.75 },
+                    { "name": "农夫山泉桶装水5L*4桶", "price": 29.35 }
+                ]
+            }
+        ],
+        "2025-12-23": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "小杨生煎(长阳欧尚店)",
+                "items": [
+                    { "name": "4只小杨生煎+酸辣粉+可乐", "price": 25.00 }
+                ]
             }
         ]
 
