@@ -19528,6 +19528,39 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "包装费", "price": 2.00 }
                 ]
             }
+        ],
+        "2025-12-25": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "青藏小伙牦牛骨汤牛肉面",
+                "items": [
+                    { "name": "牛肉刀削面", "price": 17.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "联合利华京东自营旗舰店",
+                "items": [
+                    { "name": "多芬丰盈宠肤730g", "price": 23.40 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "斧头牌京东自营旗舰店",
+                "items": [
+                    { "name": "斧头牌(AXE)柠檬护肤洗洁精1.18kg", "price": 12.70 }
+                ]
+            }
         ]
 
 
