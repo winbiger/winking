@@ -19773,7 +19773,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "山姆会员店(上海浦东店)",
                 "items": [
                     { "name": "澳洲肥牛卷1.1kg", "price": 118.00 },
-                    { "name": "黄玉胡萝卜1lg", "price": 11.90 },
+                    { "name": "黄玉胡萝卜1kg", "price": 11.90 },
                     { "name": "核桃纹大白菜1.5kg", "price": 13.90 },
                     { "name": "包装费", "price": 2.00 }
                 ]
@@ -19946,6 +19946,45 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "神州租车(御桥宜家家居自助点)",
                 "items": [
                     { "name": "高速费-苏南硕放机场⇌上海江桥", "price": 47.51 }
+                ]
+            }
+        ],
+        "2026-01-05": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "大米先生(互联宝地店)",
+                "items": [
+                    { "name": "辣椒炒肉+西红柿炒鸡蛋+元气森林280ML+杂粮饭", "price": 16.90 }
+                ]
+            }, {
+                "shop": "PDD",
+                "note": "Bananain蕉内官方旗舰店",
+                "items": [
+                    { "name": "蕉内银皮300S男士纯棉内裤 雪蓝+黑色+藏蓝 2XL", "price": 55.50 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "带鱼段1.8kg", "price": 129.00 },
+                    { "name": "崇明碱地小茼蒿500g", "price": 12.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "多力葵花籽油1.8L", "price": 26.33 },
+                    { "name": "智利车厘子2J250g", "price": 17.53 },
+                    { "name": "翠宏香辣蘸料干碟10g", "price": 1.14 },
+                    { "name": "劲仔零食大礼包160g(20袋)", "price": 9.60 },
+                    { "name": "翠宏烤肉蘸料100g(香辣味)", "price": 6.97 },
+                    { "name": "优诺无蔗糖蓝莓风味7.3g蛋白希腊酸奶120g*2", "price": 12.22 }
                 ]
             }
         ]
