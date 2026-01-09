@@ -20124,6 +20124,18 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "牛肉刀削面+煎蛋", "price": 18.00 }
                 ]
+            }, {
+                "shop": "京东",
+                "note": "关东小磨东北菜(上海三林新达汇店)",
+                "items": [
+                    { "name": "白菜猪肉馅水饺", "price": 11.88 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "椒锅锅现炒麻辣香锅(上海复地活力城店)",
+                "items": [
+                    { "name": "鲜滑嫩牛肉套餐+方便面+顺德酱皇口味", "price": 27.78 }
+                ]
             }
         ]
 
