@@ -20433,6 +20433,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "得宝黄油小熊联名 4层*90抽*4包", "price": 11.05 }
                 ]
             }
+        ],
+        "2026-01-19": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "大米先生(互联宝地店)",
+                "items": [
+                    { "name": "菌香小煎鸡+土豆丝+元气森林280ML+白米饭", "price": 19.80 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "陕聚客·陕西手工面(御桥九六广场店)",
+                "items": [
+                    { "name": "油泼扯面(宽面)+biangbiang面(宽面)+牛腱牛肉", "price": 61.80 }
+                ]
+            }
         ]
 
 
