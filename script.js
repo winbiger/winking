@@ -20657,6 +20657,32 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "打包费", "price": 1.00 }
                 ]
             }
+        ],
+        "2026-01-26": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "青藏小伙牦牛骨汤牛肉面",
+                "items": [
+                    { "name": "牛肉水饺", "price": 20.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "有机红洋葱1kg", "price": 15.90 },
+                    { "name": "生鲜鸡琵琶腿2.6kg", "price": 29.90 },
+                    { "name": "崇明碱地小茼蒿500g", "price": 12.90 },
+                    { "name": "芋泥咸蛋黄肉松小贝1*9S", "price": 35.90 },
+                    { "name": "精选鲜鸡蛋1.59kg(30枚)", "price": 18.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }
         ]
 
 
