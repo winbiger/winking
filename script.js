@@ -20683,6 +20683,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "包装费", "price": 2.00 }
                 ]
             }
+        ],
+        "2026-01-27": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "大米先生(互联宝地店)",
+                "items": [
+                    { "name": "葱烧大排+西红柿炒鸡蛋+白米饭+元气森林280ML", "price": 19.88 }
+                ]
+            }
         ]
 
 
