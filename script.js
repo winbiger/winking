@@ -20878,6 +20878,17 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "打包盒*2", "price": 2.00 }
                 ]
             }
+        ],
+        "2026-02-03": [
+            {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "黄油牛角包18个", "price": 33.80 },
+                    { "name": "调味法式羊排1.2kg", "price": 144.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }
         ]
 
 
