@@ -11745,7 +11745,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "美团",
-                "note": "呷哺呷哺(上海复地活力城店)",
+                "note": "呷哺呷哺火锅(上海复地活力城店)",
                 "items": [
                     { "name": "经典寿喜肥牛火锅套餐+米饭", "price": 24.90 }
                 ]
@@ -13667,7 +13667,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "饿了",
-                "note": "呷哺呷哺(上海长阳大润发店)",
+                "note": "呷哺呷哺火锅(上海长阳大润发店)",
                 "items": [
                     { "name": "经典寿喜肥牛火锅套餐+米饭", "price": 17.90 }
                 ]
@@ -13694,7 +13694,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "2025-07-19": [
             {
                 "shop": "饿了",
-                "note": "呷哺呷哺(上海长阳大润发店)",
+                "note": "呷哺呷哺火锅(上海长阳大润发店)",
                 "items": [
                     { "name": "新疆阳光水果番茄小酥肉套餐+米饭", "price": 13.90 }
                 ]
@@ -20887,6 +20887,33 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "黄油牛角包18个", "price": 33.80 },
                     { "name": "调味法式羊排1.2kg", "price": 144.90 },
                     { "name": "包装费", "price": 2.00 }
+                ]
+            }
+        ],
+        "2026-02-04": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "呷哺呷哺火锅(长阳大润发店)",
+                "items": [
+                    { "name": "日式寿喜烧肥牛火锅单人餐+餐具", "price": 18.57 }
                 ]
             }
         ]
