@@ -21028,6 +21028,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "白雾红尘", "price": 0.01 }
                 ]
             }
+        ],
+        "2026-02-08": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "椒锅锅现炒麻辣香锅(御桥店)",
+                "items": [
+                    { "name": "秘制鸡腿肉套餐+顺德酱皇+花菜+千叶豆腐", "price": 21.72 }
+                ]
+            }, {
+                "shop": "PDD",
+                "note": "三利家居官方旗舰店",
+                "items": [
+                    { "name": "三利马桶垫冬季羊羔绒 咖绒棕+碧安心蓝", "price": 12.44 }
+                ]
+            }
         ]
 
 
