@@ -21277,8 +21277,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "支",
                 "note": "七鲜超市(世纪汇广场店)",
                 "items": [
-                    { "name": "应季新土豆500g*2", "price": 3.98 },
-                    { "name": "番茄500g*2", "price": 8.90 },
+                    { "name": "应季新土豆500g*2", "price": 7.96 },
+                    { "name": "番茄500g*2", "price": 17.80 },
                     { "name": "天麻火腿炖老母鸡汤料240g", "price": 12.90 },
                     { "name": "原味烤肠400g", "price": 19.90 },
                     { "name": "烟熏脆皮肠(开花)", "price": 5.90 },
@@ -21298,7 +21298,6 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "宫保鸡丁调料80g", "price": 5.90 },
                     { "name": "可生食鲜鸡蛋15枚", "price": 12.90 },
                     { "name": "海霸王 手槌牛肉丸250g", "price": 14.90 },
-                    { "name": "活动优惠", "price": -6.70 },
                     { "name": "优惠券", "price": -50.00 },
                     { "name": "缺重金额", "price": -0.98 }
                 ]
