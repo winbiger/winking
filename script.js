@@ -21317,6 +21317,24 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
                 ]
             }
+        ],
+        "2026-02-18": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "象大厨手作糯米烧麦330g(6只)", "price": 11.81 },
+                    { "name": "冷冻精选黑虎虾仁150g", "price": 25.52 },
+                    { "name": "农夫山泉饮用天然水5L*2桶", "price": 14.55 },
+                    { "name": "怡宝天然水5L*2桶", "price": 12.72 },
+                    { "name": "配送费", "price": 3.00 }
+                ]
+            }
         ]
 
 
