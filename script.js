@@ -21393,6 +21393,39 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "牛肉刀削面+牛肉炒拉面+煎蛋*2", "price": 40.00 }
                 ]
             }
+        ],
+        "2026-02-20": [
+            {
+                "shop": "微信",
+                "note": "串串自由",
+                "items": [
+                    { "name": "两串大鱿鱼", "price": 30.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "蒙城黄牛肉",
+                "items": [
+                    { "name": "山药米糕1个", "price": 5.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "美滋味鸡汤馄饨",
+                "items": [
+                    { "name": "鸡汤豆花", "price": 10.00 }
+                ]
+            }, {
+                "shop": "抖音",
+                "note": "毕真烤肉店(复地活力城店)",
+                "items": [
+                    { "name": "人气精选2人餐", "price": 275.14 }
+                ]
+            }, {
+                "shop": "抖音",
+                "note": "卡通尼(复地活力城店)",
+                "items": [
+                    { "name": "40枚当日币", "price": 49.00 }
+                ]
+            }
         ]
 
 
