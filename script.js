@@ -21613,6 +21613,30 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "纸皮韭菜盒子280g(4只)", "price": 8.80 }
                 ]
             }
+        ],
+        "2026-02-25": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "优选油豆角300g", "price": 9.05 },
+                    { "name": "有机土豆500g", "price": 6.94 },
+                    { "name": "清美中百页150g", "price": 4.56 },
+                    { "name": "有机红洋葱400g", "price": 6.39 },
+                    { "name": "湘佳有机冷鲜散养土鸡琵琶腿250g", "price": 25.94 }
+                ]
+            }
         ]
 
 
