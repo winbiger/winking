@@ -21599,7 +21599,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "PDD",
                 "note": "英典家用五金官方旗舰店",
                 "items": [
-                    { "name": "转椅电脑办公椅万向轮通用1个", "price": 5.03 }
+                    { "name": "转椅电脑办公椅万向轮1个", "price": 5.03 }
                 ]
             }, {
                 "shop": "小象",
@@ -21635,6 +21635,21 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "清美中百页150g", "price": 4.56 },
                     { "name": "有机红洋葱400g", "price": 6.39 },
                     { "name": "湘佳有机冷鲜散养土鸡琵琶腿250g", "price": 25.94 }
+                ]
+            }
+        ],
+        "2026-02-26": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
                 ]
             }
         ]
