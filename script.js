@@ -21658,7 +21658,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "支",
                 "note": "上海公共交通卡股份有限公司",
                 "items": [
-                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                    { "name": "上海地铁-康恒路⇌宁国路⇌周浦", "price": 9.00 }
                 ]
             }, {
                 "shop": "抖音",
@@ -21671,6 +21671,33 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "东北风（周浦万达店）",
                 "items": [
                     { "name": "麻辣大凉皮", "price": 26.00 }
+                ]
+            }
+        ],
+        "2026-02-28": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "主老大·湖南下饭菜(互联宝地店)",
+                "items": [
+                    { "name": "爆炒鱿鱼须+擂椒茄子皮蛋+十八秒黄牛肉+油渣炒菜心+米饭*4", "price": 42.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "鹅庄·台湾美食(御桥九六广场店)",
+                "items": [
+                    { "name": "黑金卤肉饭+卤蛋", "price": 17.70 }
                 ]
             }
         ]
