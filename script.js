@@ -21700,6 +21700,30 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "黑金卤肉饭+卤蛋", "price": 17.70 }
                 ]
             }
+        ],
+        "2026-03-01": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "精选鲜鸡蛋1.59kg", "price": 18.90 },
+                    { "name": "宁波水墨汤圆960g(黑芝麻味)", "price": 56.90 },
+                    { "name": "调味法式羊排1.2kg", "price": 154.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "中国联通",
+                "items": [
+                    { "name": "话费 200元", "price": 194.99 }
+                ]
+            }
         ]
 
 
