@@ -21723,6 +21723,56 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "话费 200元", "price": 194.99 }
                 ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "翠宏香辣蘸料100g", "price": 9.90 },
+                    { "name": "南方黑芝麻糊300g", "price": 15.50 },
+                    { "name": "百岁山饮用天然矿泉水4.5L", "price": 13.80 },
+                    { "name": "有机西兰花300g", "price": 7.99 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "罗森(御北路店)",
+                "items": [
+                    { "name": "君仔素火爆鸡筋", "price": 4.00 }
+                ]
+            }
+        ],
+        "2026-03-02": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "PDD",
+                "note": "UR官方旗舰店",
+                "items": [
+                    { "name": "UR2026春季新款女装学院风撞色字母V领卫衣 M码", "price": 69.70 }
+                ]
+            }, {
+                "shop": "PDD",
+                "note": "F426服装官方旗舰店",
+                "items": [
+                    { "name": "国朝秋季宽松刺绣条纹衬衫 M码", "price": 69.60 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "盒马鲜生(御桥活力城店)",
+                "items": [
+                    { "name": "大红肠原味300g", "price": 23.52 },
+                    { "name": "原味麻薯330g", "price": 11.28 },
+                    { "name": "娃哈哈纯净水5.5L", "price": 7.43 },
+                    { "name": "杭椒150g", "price": 4.36 },
+                    { "name": "清甜脆胡萝卜600g", "price": 2.61 },
+                    { "name": "筋筋肘花火腿280g", "price": 8.66 },
+                    { "name": "去皮红洋葱500g", "price": 2.70 },
+                    { "name": "有机香醋480ML", "price": 12.16 },
+                    { "name": "紫皮大蒜250g", "price": 3.84 },
+                    { "name": "打包费", "price": 1.00 }
+                ]
             }
         ]
 
