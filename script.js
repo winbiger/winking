@@ -21774,6 +21774,38 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "打包费", "price": 1.00 }
                 ]
             }
+        ],
+        "2026-03-03": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "好特卖(御桥九六广场店)",
+                "items": [
+                    { "name": "卫龙大面筋102g", "price": 2.90 },
+                    { "name": "双汇香辣香脆肠40g*8", "price": 9.50 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "秦颐·大刀凉皮(御桥九六广场店)",
+                "items": [
+                    { "name": "热干面", "price": 15.00 },
+                    { "name": "凉皮", "price": 12.00 },
+                    { "name": "麻辣米线", "price": 18.00 },
+                    { "name": "煎蛋", "price": 3.00 },
+                    { "name": "卤蛋", "price": 3.00 }
+                ]
+            }
         ]
 
 
