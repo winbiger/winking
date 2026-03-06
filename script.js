@@ -21873,6 +21873,55 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "馋魂小酥肉单人套餐+迷踪豆豉", "price": 21.90 }
                 ]
             }
+        ],
+        "2026-03-06": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "成都你六姐·牛肉冒菜(上海七巧国店)",
+                "items": [
+                    { "name": "超厚午餐肉套餐+米饭+六姐番茄", "price": 25.48 }
+                ]
+            }, {
+                "shop": "叮咚",
+                "items": [
+                    { "name": "叮咚王牌青花椒味烤鱼1.2kg", "price": 38.35 },
+                    { "name": "叮咚王牌香辣味烤鱼1.2kg", "price": 38.37 },
+                    { "name": "有豆志吸汁小油豆腐130g", "price": 4.53 },
+                    { "name": "安格斯鲜制牛肉丸145g", "price": 17.74 },
+                    { "name": "支付优惠", "price": -2.00 },
+                    { "name": "礼品卡", "price": -0.49 }
+                ]
+            }, {
+                "shop": "PDD",
+                "note": "有间潮壳坊",
+                "items": [
+                    { "name": "睡觉猫咪真我GTNeo5手机壳蓝色", "price": 4.97 }
+                ]
+            }, {
+                "shop": "PDD",
+                "note": "珍景光3C数码配件旗舰店",
+                "items": [
+                    { "name": "睡觉猫咪真我GTNeo5手机壳黄色", "price": 3.88 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "舒适达京东自营旗舰店",
+                "items": [
+                    { "name": "舒适达【劲速护理】牙膏180g", "price": 32.94 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "闪魔(SmartDevil)京东自营旗舰店",
+                "items": [
+                    { "name": "【超清防爆】适用iphone17pro钢化膜", "price": 6.20 }
+                ]
+            }
         ]
 
 
