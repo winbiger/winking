@@ -22008,6 +22008,31 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "包装费", "price": 2.00 }
                 ]
             }
+        ],
+        "2026-03-09": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "光明优倍3.6g蛋白质有机鲜牛奶1.35L", "price": 23.80 },
+                    { "name": "袁记马蹄冬菇大云吞375g(18颗)", "price": 19.35 },
+                    { "name": "海底捞番茄火锅底料200g", "price": 10.90 },
+                    { "name": "有机西兰花300g", "price": 8.36 },
+                    { "name": "有机菠菜250g", "price": 6.99 },
+                    { "name": "有机茼蒿菜250g", "price": 5.99 }
+                ]
+            }, {
+                "shop": "叮咚",
+                "items": [
+                    { "name": "黑钻世家黑猪火腿肠300g", "price": 18.47 },
+                    { "name": "统一酸酸辣辣豚骨拉面5袋", "price": 20.33 }
+                ]
+            }
         ]
 
 
