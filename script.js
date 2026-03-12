@@ -22089,6 +22089,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "米饭", "price": 3.00 }
                 ]
             }
+        ],
+        "2026-03-12": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "胡子大厨·湖南小炒(互联宝地店)",
+                "items": [
+                    { "name": "小炒肉+土豆丝+米饭", "price": 16.80 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "秦碗会·陕西BiangBiang面(复地活力城店)",
+                "items": [
+                    { "name": "面筋凉皮+腊汁肉夹馍+冰峰汽水", "price": 24.90 }
+                ]
+            }
         ]
 
 
