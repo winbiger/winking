@@ -22270,6 +22270,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "招牌擀面皮+肉夹馍", "price": 15.90 }
                 ]
             }
+        ],
+        "2026-03-16": [
+            {
+                "shop": "京东",
+                "note": "大米先生(互联宝地店)",
+                "items": [
+                    { "name": "菌香小煎鸡+土豆丝+白米饭+元气森林280ML", "price": 19.80 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "晋情·游子轩(梅花路店)",
+                "items": [
+                    { "name": "山西大烩菜+陈醋土豆丝+米饭*2", "price": 70.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "速充新能源喜马拉雅充电站",
+                "items": [
+                    { "name": "充电时长49分15", "price": 15.17 }
+                ]
+            }
         ]
 
 
