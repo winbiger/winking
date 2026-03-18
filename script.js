@@ -22330,6 +22330,39 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "停车时长52分", "price": 10.00 }
                 ]
             }
+        ],
+        "2026-03-18": [
+            {
+                "shop": "饿了",
+                "note": "秦碗会·陕西BiangBiang面(开新里店)",
+                "items": [
+                    { "name": "岐山臊子面+煎蛋+加面", "price": 18.08 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "青藏小伙牦牛骨汤牛肉面",
+                "items": [
+                    { "name": "牛肉刀削面", "price": 17.00 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "喜家德虾仁水饺(啦啦宝都店)",
+                "items": [
+                    { "name": "喜三鲜+西芹鲜肉+鱼片凯里鲜蔬锅+米饭", "price": 77.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "喜家德虾仁水饺(啦啦宝都店)",
+                "items": [
+                    { "name": "米饭", "price": 2.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "啦啦宝都停车场",
+                "items": [
+                    { "name": "停车时长53分", "price": 9.00 }
+                ]
+            }
         ]
 
 
