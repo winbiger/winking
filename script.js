@@ -22300,6 +22300,12 @@ document.addEventListener("DOMContentLoaded", function () {
         ],
         "2026-03-17": [
             {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路→宁国路", "price": 4.00 }
+                ]
+            }, {
                 "shop": "美团",
                 "note": "成都你六姐·牛肉冒菜(上海复地活力城店)",
                 "items": [
@@ -22333,6 +22339,12 @@ document.addEventListener("DOMContentLoaded", function () {
         ],
         "2026-03-18": [
             {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路→宁国路", "price": 4.00 }
+                ]
+            }, {
                 "shop": "饿了",
                 "note": "秦碗会·陕西BiangBiang面(开新里店)",
                 "items": [
@@ -22361,6 +22373,27 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "啦啦宝都停车场",
                 "items": [
                     { "name": "停车时长53分", "price": 9.00 }
+                ]
+            }
+        ],
+        "2026-03-19": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路→宁国路", "price": 4.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "大米先生(互联宝地店)",
+                "items": [
+                    { "name": "黄瓜鸡丁+土豆丝+白米饭+AD钙奶", "price": 17.38 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "乡村基·川味现炒(复地活力城店)",
+                "items": [
+                    { "name": "藕香小煎鸡+肉末茄子+青椒土豆丝+白米饭", "price": 21.08 }
                 ]
             }
         ]
