@@ -22119,12 +22119,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "京东",
                 "note": "FINO京东自营旗舰店",
                 "items": [
-                    { "name": "FINO芬浓银钻发膜40g*1罐", "price": 0.00 }
-                ]
-            }, {
-                "shop": "京东",
-                "note": "FINO京东自营旗舰店",
-                "items": [
                     { "name": "FINO芬浓洗发水550ML*1瓶", "price": 49.16 }
                 ]
             }
@@ -22487,6 +22481,39 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "长泰广场停车场",
                 "items": [
                     { "name": "停车时长3小时0分26", "price": 15.00 }
+                ]
+            }
+        ],
+        "2026-03-22": [
+            {
+                "shop": "京东",
+                "note": "红卫京东自营旗舰店",
+                "items": [
+                    { "name": "红卫羊脂皂120g", "price": 9.12 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "丝塔芙京东自营旗舰店",
+                "items": [
+                    { "name": "丝塔芙小云朵氨基酸洗面奶200ML", "price": 91.18 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "乡村基·川味现炒(复地活力城店)",
+                "items": [
+                    { "name": "回锅肉+麻婆豆腐+青椒土豆丝+白米饭", "price": 22.80 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "陕聚客·陕西手工面(御桥九六广场店)",
+                "items": [
+                    { "name": "老陕裤带面+肉夹馍", "price": 18.90 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "陕聚客·陕西手工面(御桥九六广场店)",
+                "items": [
+                    { "name": "老陕裤带面+肉夹馍", "price": 17.90 }
                 ]
             }
         ]
