@@ -22516,6 +22516,25 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "老陕裤带面+肉夹馍", "price": 17.90 }
                 ]
             }
+        ],
+        "2026-03-23": [
+            {
+                "shop": "微信",
+                "note": "魏家凉皮(上海文一中心店)",
+                "items": [
+                    { "name": "番茄意面", "price": 22.00 },
+                    { "name": "原味炸鸡堡+薯角+可乐", "price": 17.00 },
+                    { "name": "魏家饮用天然矿泉水500ML*2", "price": 2.57 },
+                    { "name": "经典汉堡+薯角+可乐", "price": 25.00 },
+                    { "name": "烤鸡翅", "price": 22.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "涑邦万都国际充电站",
+                "items": [
+                    { "name": "充电时长39分56", "price": 6.88 }
+                ]
+            }
         ]
 
 
