@@ -22003,7 +22003,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "高蛋白黄油餐包720克(6包)", "price": 29.90 },
                     { "name": "辣椒炒肉薄皮椒400g", "price": 14.90 },
-                    { "name": "双色洋葱1.8lg", "price": 9.90 },
+                    { "name": "双色洋葱1.8kg", "price": 9.90 },
                     { "name": "澳洲谷饲上脑薄片800g", "price": 91.80 },
                     { "name": "包装费", "price": 2.00 }
                 ]
@@ -22729,7 +22729,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "微信",
-                "note": "蔡澜点心·粤菜(正大广场店)",
+                "note": "蔡澜点心·粤菜(长泰广场店)",
                 "items": [
                     { "name": "豉油皇干炒牛河", "price": 39.00 },
                     { "name": "五常香米饭", "price": 3.00 },
@@ -22739,7 +22739,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "美团",
-                "note": "蔡澜点心·粤菜(正大广场店)",
+                "note": "蔡澜点心·粤菜(长泰广场店)",
                 "items": [
                     { "name": "100元代金券", "price": 83.00 }
                 ]
@@ -22748,6 +22748,43 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "长泰广场停车场",
                 "items": [
                     { "name": "停车时长1小时44分", "price": 12.00 }
+                ]
+            }
+        ],
+        "2026-03-29": [
+            {
+                "shop": "抖音",
+                "note": "德元兰州纯汤牛肉面(周浦万达店)",
+                "items": [
+                    { "name": "纯汤牛肉面(含酱牛肉)+卤蛋", "price": 25.00 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "德元兰州纯汤牛肉面(周浦万达店)",
+                "items": [
+                    { "name": "纯汤牛肉面(含酱牛肉)+卤蛋", "price": 25.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "明仕周浦充电站",
+                "items": [
+                    { "name": "充电时长40分27", "price": 6.69 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "秦碗会·陕西BiangBiang面(复地活力城店)",
+                "items": [
+                    { "name": "面筋凉皮+腊汁肉夹馍+冰峰汽水", "price": 24.90 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "不倒翁金拉面120g*12", "price": 59.90 },
+                    { "name": "弱碱性饮用水4L", "price": 8.80 },
+                    { "name": "鳕鱼三明治1PC", "price": 55.90 },
+                    { "name": "精选鲜鸡蛋1.59kg(30枚)", "price": 18.90 },
+                    { "name": "包装费", "price": 1.00 }
                 ]
             }
         ]
