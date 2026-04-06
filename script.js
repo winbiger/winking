@@ -6480,7 +6480,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "中蔬",
                 "note": "中蔬时代(周浦万达店)",
                 "items": [
-                    { "name": "思念（大虾仁）三鲜虾仁水饺", "price": 9.90 },
+                    { "name": "思念(大虾仁)三鲜虾仁水饺", "price": 9.90 },
                     { "name": "烧鸡", "price": 19.80 },
                     { "name": "香辣银鱼", "price": 3.66 },
                     { "name": "八角", "price": 15.00 },
@@ -22982,6 +22982,47 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "中国石油加油站(康桥站)",
                 "items": [
                     { "name": "17.26升92号车用汽油", "price": 139.86 }
+                ]
+            }
+        ],
+        "2026-04-05": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }
+        ],
+        "2026-04-06": [
+            {
+                "shop": "饿了",
+                "note": "盒马鲜生(御桥活力城店)",
+                "items": [
+                    { "name": "娃哈哈纯净水5.5'*2", "price": 11.60 },
+                    { "name": "高盐基围虾350g", "price": 17.00 },
+                    { "name": "李锦记薄盐生抽500ml", "price": 5.80 },
+                    { "name": "打包费", "price": 1.00 }
+                ]
+            }, {
+                "shop": "抖音",
+                "note": "德元兰州纯汤牛肉面(周浦万达店)",
+                "items": [
+                    { "name": "纯汤牛肉面(含酱牛肉)+卤蛋", "price": 25.00 }
+                ]
+            }, {
+                "shop": "抖音",
+                "note": "德元兰州纯汤牛肉面(周浦万达店)",
+                "items": [
+                    { "name": "纯汤牛肉面(含酱牛肉)+卤蛋", "price": 24.00 }
+                ]
+            }, {
+                "shop": "中蔬",
+                "note": "中蔬时代(周浦万达店)",
+                "items": [
+                    { "name": "荷兰土豆", "price": 4.08 },
+                    { "name": "线椒", "price": 7.74 },
+                    { "name": "四季豆", "price": 7.11 }
                 ]
             }
         ]
