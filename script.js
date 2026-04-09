@@ -22865,7 +22865,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "饿了",
                 "note": "温暖你的猪(互联宝地店)",
                 "items": [
-                    { "name": "辣椒炒肉+酸辣土豆丝+米饭+餐具", "price": 23.40 }
+                    { "name": "辣椒炒肉+酸辣土豆丝+米饭+餐具", "price": 33.40 }
                 ]
             }, {
                 "shop": "京东",
@@ -23095,6 +23095,33 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "上海陆家嘴(集团)有限公司",
                 "items": [
                     { "name": "电费(2025/12-2026/03)数智天地悦庭10", "price": 1200.00 }
+                ]
+            }
+        ],
+        "2026-04-09": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "温暖你的猪(互联宝地店)",
+                "items": [
+                    { "name": "猛火土匪猪肝+酸辣土豆丝+米饭", "price": 23.77 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "上海陆家嘴(集团)有限公司",
+                "items": [
+                    { "name": "水费(2025/12-2026/03)数智天地悦庭10", "price": 200.00 }
                 ]
             }
         ]
