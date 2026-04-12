@@ -23166,7 +23166,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ],
         "2026-04-11": [
             {
-                "shop": "微信",
+                "shop": "支",
                 "note": "江西小炒(有巢公寓店)",
                 "items": [
                     { "name": "蒜苔炒肉+干锅千叶豆腐+米饭*2", "price": 60.00 }
@@ -23212,6 +23212,34 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "神农公社猪肉肠", "price": 12.40 },
                     { "name": "川南麻辣海带", "price": 3.50 }
+                ]
+            }
+        ],
+        "2026-04-12": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "惠邻百佳超市(御桥店)",
+                "items": [
+                    { "name": "绿箭无糖薄荷糖12g", "price": 3.73 },
+                    { "name": "老管家管道除臭剂450g", "price": 7.47 },
+                    { "name": "心相印厨房纸巾2卷", "price": 7.75 },
+                    { "name": "打包费", "price": 1.00 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "盒马鲜生(御桥活力城店)",
+                "items": [
+                    { "name": "有机山西陈醋480ML", "price": 14.38 },
+                    { "name": "王守义十三香45g", "price": 3.53 },
+                    { "name": "农夫山泉饮用天然水5L*2", "price": 14.29 },
+                    { "name": "巧乐兹巧脆棒75g*5只", "price": 15.20 },
+                    { "name": "打包费", "price": 1.00 }
                 ]
             }
         ]
