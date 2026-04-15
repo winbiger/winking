@@ -9077,7 +9077,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "美团",
-                "note": "朴大叔拌饭-金航城店",
+                "note": "朴大叔拌饭(金航城店)",
                 "items": [
                     { "name": "甄选肥牛锅 + 牛肉石锅拌饭", "price": 49.90 }
                 ]
@@ -23288,6 +23288,45 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "主老大·湖南下饭菜(互联宝地店)",
                 "items": [
                     { "name": "辣椒炒肉+韭菜炒豆芽+米饭", "price": 24.10 }
+                ]
+            }
+        ],
+        "2026-04-15": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "朴大叔拌饭(上海长阳路大润发店)",
+                "items": [
+                    { "name": "照烧鸡排鸡肉拌饭+辣白菜+海带汤", "price": 18.80 }
+                ]
+            }, {
+                "shop": "PDD",
+                "note": "RNW如薇专卖店",
+                "items": [
+                    { "name": "二代去黑头RNW鼻贴10片+湿敷棉30贴", "price": 19.25 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "kuyura可悠然京东自营旗舰店",
+                "items": [
+                    { "name": "可悠然沐浴露氨基酸泡沫沐浴露350ML", "price": 46.74 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "得宝京东自营旗舰店",
+                "items": [
+                    { "name": "得宝小雏菊抽纸4层80抽*4包", "price": 8.83 }
                 ]
             }
         ]
