@@ -23547,6 +23547,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "农夫山泉桶装水5L*4桶", "price": 31.60 }
                 ]
             }
+        ],
+        "2026-04-24": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "京穆聚红烧牛肉面(上海康恒路店)",
+                "items": [
+                    { "name": "牛肉刀削面", "price": 16.00 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "胡子大厨·超级小炒肉(周浦万达店)",
+                "items": [
+                    { "name": "招牌双人餐", "price": 93.00 }
+                ]
+            }
         ]
 
 
