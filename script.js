@@ -6670,7 +6670,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "2024-12-01": [
             {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "莲藕 500g", "price": 4.83 },
                     { "name": "进口365日熟甜蕉 1kg", "price": 9.59 },
@@ -6944,7 +6944,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "贝贝南瓜 1kg", "price": 6.9 },
                     { "name": "老干妈 风味鸡油辣椒 280g", "price": 11.9 },
@@ -7035,7 +7035,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "2024-12-14": [
             {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "霜打长白萝卜 1.5kg", "price": 3.99 },
                     { "name": "紫皮大蒜 500g", "price": 7.9 },
@@ -7088,7 +7088,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "油炸花生 500g", "price": 14.90 },
                     { "name": "粉藕 550g", "price": 4.99 },
@@ -7136,7 +7136,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "生菜 400g", "price": 1.99 },
                     { "name": "新土豆 1kg", "price": 2.99 },
@@ -7184,7 +7184,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "2024-12-26": [
             {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "冰鲜 黑猪去皮五花肉 350g/盒", "price": 25.90 },
                     { "name": "蒜苗 500g", "price": 5.90 },
@@ -7214,7 +7214,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "2024-12-29": [
             {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "桥头 老火锅底料 360g", "price": 16.50 },
                     { "name": "霜打长白萝卜 1.5kg", "price": 3.99 },
@@ -7268,9 +7268,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
-                    { "name": "NB 大红袍花椒 50g", "price": 8.90 },
+                    { "name": "大红袍花椒 50g", "price": 8.90 },
                     { "name": "冰鲜 肥瘦猪肉馅(肥瘦比约2:8) 500g/盒.", "price": 10.90 },
                     { "name": "冰鲜 带皮大五花肉 1.5kg", "price": 44.90 }
                 ]
@@ -7353,7 +7353,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "2025-01-04": [
             {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "山东红富士 1.5kg装", "price": 12.90 },
                     { "name": "新土豆 1kg", "price": 3.50 },
@@ -7448,7 +7448,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "普罗旺斯番茄 1kg", "price": 9.90 },
                     { "name": "北海牧场 经典原味风味发酵乳 100g*3/组", "price": 7.90 },
@@ -7515,7 +7515,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "山东红富士 1.5kg装", "price": 12.90 },
                     { "name": "鲜鸡蛋30枚 1.6kg", "price": 17.90 },
@@ -7610,7 +7610,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "冰鲜 鸡爪500g", "price": 21.90 },
                     { "name": "鲜鸡蛋30枚 1.6kg", "price": 17.90 },
@@ -7646,7 +7646,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "2025-01-19": [
             {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "冷鲜猪前腿肉 500g", "price": 13.90 },
                     { "name": "新疆阿克苏苹果 1.5kg", "price": 16.90 },
@@ -7706,7 +7706,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "盒马",
                 "note": "盒马NB(航头浦乐汇店)",
                 "items": [
-                    { "name": "NB 苏北老豆腐 350g", "price": 2.99 },
+                    { "name": "苏北老豆腐 350g", "price": 2.99 },
                     { "name": "冰鲜 琵琶腿 800g*2", "price": 23.80 },
                     { "name": "鲜鸡蛋30枚 1.6kg", "price": 17.90 }
                 ]
@@ -7789,7 +7789,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "香椿鸡 冰鲜 草鸡整鸡 950g", "price": 36.90 },
                     { "name": "粉藕 550g", "price": 4.99 },
@@ -8321,7 +8321,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "鲜鸡蛋30枚 1.6kg", "price": 15.90 },
                     { "name": "冰鲜鸡翅中 500g", "price": 21.60 },
@@ -8972,7 +8972,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ]
             }, {
                 "shop": "盒马",
-                "note": "盒马NB浦东航头浦乐汇店",
+                "note": "盒马NB(浦东航头浦乐汇店)",
                 "items": [
                     { "name": "冰鲜猪肋排 1.2kg", "price": 59.90 },
                     { "name": "配送费", "price": 3.00 }
@@ -23568,8 +23568,45 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "招牌双人餐", "price": 93.00 }
                 ]
             }
+        ],
+        "2026-04-25": [
+            {
+                "shop": "支",
+                "note": "快客(浦江郊野公园店)",
+                "items": [
+                    { "name": "2根烤肠+百岁山570ML", "price": 18.20 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "喜家德虾仁水饺(三林印象汇店)",
+                "items": [
+                    { "name": "喜三鲜+西芹鲜肉+鱼片凯里鲜蔬锅+米饭", "price": 80.00 }
+                ]
+            }, {
+                "shop": "盒马",
+                "note": "盒马NB(三林印象汇店)",
+                "items": [
+                    { "name": "番茄1kg", "price": 7.90 },
+                    { "name": "春见粑粑柑1.5kg", "price": 17.90 },
+                    { "name": "原味麻薯250g9只", "price": 9.90 }
+                ]
+            }
+        ],
+        "2026-04-26": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "PDD",
+                "note": "红卫官方旗舰店",
+                "items": [
+                    { "name": "羊脂皂三盒+硫磺皂两盒", "price": 17.94 }
+                ]
+            }
         ]
-
 
     };
 
