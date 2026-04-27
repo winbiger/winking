@@ -23606,6 +23606,24 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "羊脂皂三盒+硫磺皂两盒", "price": 17.94 }
                 ]
             }
+        ],
+        "2026-04-27": [
+            {
+                "shop": "美团",
+                "note": "秦小乖油泼面·肉夹馍(互联宝地店)",
+                "items": [
+                    { "name": "健康时蔬夹馍+秘制红油面皮+冰峰", "price": 15.80 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "澳洲谷饲牛霖1.2kg", "price": 117.31 },
+                    { "name": "崇明碱地小茼蒿500g", "price": 12.90 },
+                    { "name": "辣椒炒肉薄皮椒400g", "price": 15.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }
         ]
 
     };
