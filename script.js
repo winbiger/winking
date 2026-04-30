@@ -23657,6 +23657,32 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "包装费", "price": 2.00 }
                 ]
             }
+        ],
+        "2026-04-30": [
+            {
+                "shop": "支",
+                "note": "大米先生(上海长阳创谷店)",
+                "items": [
+                    { "name": "蜜枣蒸南瓜+青笋丝炒鸡蛋+杂粮饭", "price": 21.53 }
+                ]
+            }, {
+                "shop": "叮咚",
+                "items": [
+                    { "name": "有豆志兰花干160g", "price": 6.08 },
+                    { "name": "有豆志有机鲜腐竹120g", "price": 8.53 },
+                    { "name": "天目山香薯750g", "price": 11.50 },
+                    { "name": "有机上海青250g", "price": 4.50 },
+                    { "name": "有机大白菜600g", "price": 10.90 },
+                    { "name": "供港基地刺黄瓜500g", "price": 6.43 },
+                    { "name": "普罗旺斯番茄500g", "price": 7.99 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }
         ]
 
     };
