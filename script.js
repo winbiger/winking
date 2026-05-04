@@ -23609,6 +23609,12 @@ document.addEventListener("DOMContentLoaded", function () {
         ],
         "2026-04-27": [
             {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
                 "shop": "美团",
                 "note": "秦小乖油泼面·肉夹馍(互联宝地店)",
                 "items": [
@@ -23627,6 +23633,12 @@ document.addEventListener("DOMContentLoaded", function () {
         ],
         "2026-04-28": [
             {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
                 "shop": "微信",
                 "note": "上海宜家家居有限公司浦东分公司北蔡商场",
                 "items": [
@@ -23642,6 +23654,12 @@ document.addEventListener("DOMContentLoaded", function () {
         ],
         "2026-04-29": [
             {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
                 "shop": "支",
                 "note": "青藏小伙牦牛骨汤牛肉面",
                 "items": [
@@ -23660,6 +23678,12 @@ document.addEventListener("DOMContentLoaded", function () {
         ],
         "2026-04-30": [
             {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
                 "shop": "支",
                 "note": "大米先生(上海长阳创谷店)",
                 "items": [
@@ -23735,6 +23759,68 @@ document.addEventListener("DOMContentLoaded", function () {
                 "note": "浦司官方旗舰店",
                 "items": [
                     { "name": "洗脸盆漏水塞1个", "price": 1.59 }
+                ]
+            }
+        ],
+        "2026-05-04": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路→国权路", "price": 5.00 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-嫩江路→康恒路", "price": 5.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路→国权路", "price": 5.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-嫩江路→康恒路", "price": 5.00 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "陕聚客·陕西手工面(御桥九六广场店)",
+                "items": [
+                    { "name": "陕西手工凉皮+脆皮肉夹馍+冰峰", "price": 30.80 }
+                ]
+            }, {
+                "shop": "美团",
+                "note": "陕聚客·陕西手工面(御桥九六广场店)",
+                "items": [
+                    { "name": "油泼扯面+爽口小菜", "price": 27.80 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "德有体育(新江湾生活广场店)",
+                "items": [
+                    { "name": "竞速皮划艇2小时", "price": 150.00 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "全家(国浩路店)",
+                "items": [
+                    { "name": "百岁山570ML*2", "price": 5.10 }
+                ]
+            }, {
+                "shop": "滴滴",
+                "items": [
+                    { "name": "星巴克国浩路店→翠花娘家东北菜国和路店", "price": 6.50 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "翠花娘家东北菜(国和路店)",
+                "items": [
+                    { "name": "酸菜粉+朝鲜冷面+溜肉段+餐具*2+米饭小碗", "price": 84.00 }
                 ]
             }
         ]
