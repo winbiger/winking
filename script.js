@@ -23823,6 +23823,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "酸菜粉+朝鲜冷面+溜肉段+餐具*2+米饭小碗", "price": 84.00 }
                 ]
             }
+        ],
+        "2026-05-05": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "海天0添加特级高鲜生抽1.6L", "price": 23.80 },
+                    { "name": "黄瓜1kg", "price": 12.90 },
+                    { "name": "精选鲜鸡蛋1.59kg(30枚)", "price": 18.90 },
+                    { "name": "西兰花1kg", "price": 17.90 },
+                    { "name": "上海青苗600g", "price": 9.90 },
+                    { "name": "康沙板栗薯1kg", "price": 17.90 },
+                    { "name": "包装费", "price": 1.00 }
+                ]
+            }
         ]
 
     };
