@@ -23843,6 +23843,12 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "康沙板栗薯1kg", "price": 17.90 },
                     { "name": "包装费", "price": 1.00 }
                 ]
+            }, {
+                "shop": "美团",
+                "note": "辣蜀乐·热辣现炒(御桥九六广场店)",
+                "items": [
+                    { "name": "【川味招牌】甄选美味双人餐", "price": 159.80 }
+                ]
             }
         ]
 
