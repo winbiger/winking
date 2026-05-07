@@ -23895,6 +23895,31 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "阿拐牛肉2人餐", "price": 162.00 }
                 ]
             }
+        ],
+        "2026-05-07": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "康沙板栗薯1kg", "price": 17.90 },
+                    { "name": "北极甜虾1.5kg", "price": 109.90 },
+                    { "name": "有机西芹600g", "price": 15.90 },
+                    { "name": "精制香干260g*2", "price": 16.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }
         ]
 
     };
