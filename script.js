@@ -23920,6 +23920,28 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "包装费", "price": 2.00 }
                 ]
             }
+        ],
+        "2026-05-08": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "辣蜀乐·热辣现炒(御桥九六广场店)",
+                "items": [
+                    { "name": "酸包菜炒粉皮+宫保鸡丁+米饭", "price": 78.00 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "罗森(御北路店)",
+                "items": [
+                    { "name": "烤肠*2", "price": 8.80 },
+                    { "name": "百岁山570ML*2", "price": 5.00 }
+                ]
+            }
         ]
 
     };
