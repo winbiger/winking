@@ -23942,6 +23942,25 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "百岁山570ML*2", "price": 5.00 }
                 ]
             }
+        ],
+        "2026-05-09": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "农家山地鸡", "price": 65.90 },
+                    { "name": "有机韭菜600g", "price": 16.90 },
+                    { "name": "康沙板栗薯1kg", "price": 17.90 },
+                    { "name": "有机胡萝卜1kg", "price": 11.90 },
+                    { "name": "黄瓜1kg", "price": 12.90 }
+                ]
+            }
         ]
 
     };
