@@ -23984,6 +23984,29 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "百岁山矿泉水570ML*6瓶", "price": 12.80 }
                 ]
             }
+        ],
+        "2026-05-11": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "生冷冻三文鱼块1kg", "price": 135.00 },
+                    { "name": "香芋糯冬瓜2.2kg", "price": 16.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "三味拌川(御桥九六店)",
+                "items": [
+                    { "name": "番茄炒蛋拌川+杭椒黑猪肉汤面", "price": 55.00 }
+                ]
+            }
         ]
 
     };
