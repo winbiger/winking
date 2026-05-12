@@ -24006,6 +24006,35 @@ document.addEventListener("DOMContentLoaded", function () {
                 "items": [
                     { "name": "番茄炒蛋拌川+杭椒黑猪肉汤面", "price": 55.00 }
                 ]
+            }, {
+                "shop": "支",
+                "note": "好特卖(御桥九六广场店)",
+                "items": [
+                    { "name": "南方黑芝麻糊315g", "price": 9.67 }
+                ]
+            }
+        ],
+        "2026-05-12": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "温暖你的猪(御桥九六店)",
+                "items": [
+                    { "name": "水晶粉丝", "price": 29.00 },
+                    { "name": "湘辣黑猪耳", "price": 39.00 },
+                    { "name": "米饭", "price": 3.00 }
+                ]
             }
         ]
 
