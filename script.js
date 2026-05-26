@@ -24447,6 +24447,34 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "双汇鱼肉肠50g*5根", "price": 9.90 }
                 ]
             }
+        ],
+        "2026-05-26": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "盒马",
+                "note": "盒马鲜生(御桥活力城店)",
+                "items": [
+                    { "name": "云溪蜜薯500g", "price": 7.12 },
+                    { "name": "布茄子550g", "price": 4.26 },
+                    { "name": "川娃子皮蛋烧椒酱230g", "price": 11.50 },
+                    { "name": "油豆角300g", "price": 8.82 },
+                    { "name": "有机千张150g", "price": 6.77 },
+                    { "name": "密刺黄瓜600g", "price": 2.58 },
+                    { "name": "工坊大红肠300g", "price": 16.90 },
+                    { "name": "包装费", "price": 1.00 }
+                ]
+            }
         ]
 
     };
