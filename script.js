@@ -24475,6 +24475,21 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "包装费", "price": 1.00 }
                 ]
             }
+        ],
+        "2026-05-27": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "PHOHONG越南餐室(九六广场店)",
+                "items": [
+                    { "name": "越南咖喱虾+薄荷炸排骨+米饭", "price": 73.60 }
+                ]
+            }
         ]
 
     };
