@@ -24490,6 +24490,26 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "越南咖喱虾+薄荷炸排骨+米饭", "price": 73.60 }
                 ]
             }
+        ],
+        "2026-05-28": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "舟山带鱼段2kg", "price": 99.90 },
+                    { "name": "鹿茸菇500g", "price": 9.90 },
+                    { "name": "有机奶白菜苗600g", "price": 14.90 },
+                    { "name": "康沙板栗薯1kg", "price": 17.90 },
+                    { "name": "有机胡萝卜1kg", "price": 11.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }
         ]
 
     };
