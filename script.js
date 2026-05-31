@@ -24593,6 +24593,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "怡宝纯净水6L*3桶", "price": 25.50 }
                 ]
             }
+        ],
+        "2026-05-31": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "甜芭莱姆彩椒350g", "price": 18.90 },
+                    { "name": "猪里脊1.6kg", "price": 58.20 },
+                    { "name": "双色洋葱1.8kg", "price": 9.90 },
+                    { "name": "康沙板栗薯1kg", "price": 17.90 },
+                    { "name": "精制香干260g*2", "price": 16.90 },
+                    { "name": "黄瓜1kg", "price": 9.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }
         ]
 
     };
