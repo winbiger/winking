@@ -24614,6 +24614,26 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "包装费", "price": 2.00 }
                 ]
             }
+        ],
+        "2026-06-01": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "支",
+                "note": "中国联通",
+                "items": [
+                    { "name": "话费 200元", "price": 196.99 }
+                ]
+            }, {
+                "shop": "微信",
+                "items": [
+                    { "name": "轮渡往返2.8+1.8", "price": 4.60 }
+                ]
+            }
         ]
 
     };
