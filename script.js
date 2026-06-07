@@ -24613,6 +24613,12 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "黄瓜1kg", "price": 9.90 },
                     { "name": "包装费", "price": 2.00 }
                 ]
+            }, {
+                "shop": "京东",
+                "note": "真不二健康京东自营旗舰店",
+                "items": [
+                    { "name": "真不二艾草颈椎枕+肩颈贴*3", "price": 110.02 }
+                ]
             }
         ],
         "2026-06-01": [
@@ -24731,7 +24737,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "小红书",
                 "note": "村驴的店",
                 "items": [
-                    { "name": "村驴加东北黏糊麻辣烫*3袋", "price": 36.90 }
+                    { "name": "村驴家东北黏糊麻辣烫*3袋", "price": 36.90 }
                 ]
             }
         ],
@@ -24764,6 +24770,33 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "美式烤鸡腿*6", "price": 69.80 },
                     { "name": "五花大肉粽*8", "price": 39.90 },
                     { "name": "奶油西瓜4.5kg", "price": 49.80 }
+                ]
+            }
+        ],
+        "2026-06-07": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "CeraVe适乐肤京东自营旗舰店",
+                "items": [
+                    { "name": "适乐肤氨基酸洁面236ML+起泡网+洁面啫喱30ML+润肤霜15ML", "price": 64.51 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "参半京东自营旗舰店",
+                "items": [
+                    { "name": "参半宽头软毛牙刷5支装", "price": 4.58 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "舒适达京东自营旗舰店",
+                "items": [
+                    { "name": "舒适达美白抗敏修复牙膏180g", "price": 32.62 }
                 ]
             }
         ]
