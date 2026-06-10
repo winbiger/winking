@@ -24904,6 +24904,21 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "包装费", "price": 2.00 }
                 ]
             }
+        ],
+        "2026-06-10": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }
         ]
 
     };
