@@ -24144,7 +24144,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "饿了",
                 "note": "蜜雪冰城(康士路店)",
                 "items": [
-                    { "name": "蜜桃四季春+柠檬红茶霸气桶", "price": 0.99 }
+                    { "name": "蜜桃四季春+柠檬红茶霸气桶+打包费", "price": 0.99 }
                 ]
             }
         ],
@@ -24960,6 +24960,38 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "苏菲超熟睡350mm*4片/包", "price": 7.47 },
                     { "name": "她研社安睡裤M-L号3条", "price": 6.72 },
                     { "name": "打包费", "price": 1.00 }
+                ]
+            }
+        ],
+        "2026-06-12": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }
+        ],
+        "2026-06-13": [
+            {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "藤椒烤海鲈鱼", "price": 79.90 },
+                    { "name": "鲜冻龙虾尾", "price": 79.90 },
+                    { "name": "有机胡萝卜1kg", "price": 11.90 }
+                ]
+            }, {
+                "shop": "饿了",
+                "note": "蜜雪冰城(康士路店)",
+                "items": [
+                    { "name": "桃喜芒芒+港式杨枝甘露+打包费", "price": 6.20 }
                 ]
             }
         ]
