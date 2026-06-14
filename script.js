@@ -24994,6 +24994,25 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "桃喜芒芒+港式杨枝甘露+打包费", "price": 6.20 }
                 ]
             }
+        ],
+        "2026-06-14": [
+            {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "翠绿西葫芦1kg", "price": 10.90 },
+                    { "name": "供港生菜600g", "price": 11.90 },
+                    { "name": "弱碱性饮用水4L", "price": 8.80 },
+                    { "name": "炭烤鸡架2.17kg", "price": 79.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }
         ]
 
     };
