@@ -25013,6 +25013,36 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
                 ]
             }
+        ],
+        "2026-06-15": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "淘宝",
+                "note": "拜尔家居旗舰店",
+                "items": [
+                    { "name": "运费", "price": 9.75 }
+                ]
+            }, {
+                "shop": "叮咚",
+                "items": [
+                    { "name": "捏捏烤面筋225g", "price": 4.16 },
+                    { "name": "有机杏鲍菇200g", "price": 6.78 },
+                    { "name": "多力葵花籽油700ML", "price": 12.90 },
+                    { "name": "亚麻籽猪嫩里脊肉200g", "price": 13.42 },
+                    { "name": "红薯淀粉200g", "price": 5.08 },
+                    { "name": "紫皮大蒜350g", "price": 3.99 },
+                    { "name": "流蜜紫薯400g", "price": 6.53 },
+                    { "name": "怡宝纯净水6L*3桶", "price": 24.90 },
+                    { "name": "王守义十三香45g", "price": 3.31 },
+                    { "name": "水塔老陈醋500ML", "price": 10.02 },
+                    { "name": "鲜抽黄糯玉米4根", "price": 14.40 }
+                ]
+            }
         ]
 
     };
