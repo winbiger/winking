@@ -25043,6 +25043,34 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "鲜抽黄糯玉米4根", "price": 14.40 }
                 ]
             }
+        ],
+        "2026-06-16": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "有机奶白菜苗600g", "price": 14.90 },
+                    { "name": "车厘茄1.25kg", "price": 29.90 },
+                    { "name": "康沙板栗薯1kg", "price": 17.90 },
+                    { "name": "精制香干260g*2", "price": 16.90 },
+                    { "name": "黄瓜1kg", "price": 9.90 },
+                    { "name": "有机胡萝卜1kg", "price": 11.90 },
+                    { "name": "蛋博士大码鲜鸡蛋30枚1.8kg", "price": 22.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }
         ]
 
     };
