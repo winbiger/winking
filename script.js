@@ -25071,6 +25071,29 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "包装费", "price": 2.00 }
                 ]
             }
+        ],
+        "2026-06-17": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "items": [
+                    { "name": "轮渡往返2.8+1.8", "price": 4.60 }
+                ]
+            }, {
+                "shop": "小象",
+                "items": [
+                    { "name": "紫光园奶皮子酸奶120g*3", "price": 21.90 },
+                    { "name": "锋味派原味黑猪肉烤肠200g(4根)", "price": 18.90 },
+                    { "name": "翠宏香辣红油200g", "price": 14.90 },
+                    { "name": "鲜活基围虾350g(14-18只)", "price": 26.90 },
+                    { "name": "香菜100g", "price": 1.99 }
+                ]
+            }
         ]
 
     };
