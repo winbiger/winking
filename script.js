@@ -25025,7 +25025,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "shop": "淘宝",
                 "note": "拜尔家居旗舰店",
                 "items": [
-                    { "name": "运费", "price": 9.75 }
+                    { "name": "运费", "price": 6.50 }
                 ]
             }, {
                 "shop": "叮咚",
@@ -25092,6 +25092,57 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "翠宏香辣红油200g", "price": 14.90 },
                     { "name": "鲜活基围虾350g(14-18只)", "price": 26.90 },
                     { "name": "香菜100g", "price": 1.99 }
+                ]
+            }
+        ],
+        "2026-06-18": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "得宝京东自营旗舰店",
+                "items": [
+                    { "name": "得宝Pingu联名款抽纸80抽*6包", "price": 13.80 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "蕉内官方旗舰店",
+                "items": [
+                    { "name": "蕉内纯色毛巾2条装魅影灰+薰紫色", "price": 47.04 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "kuyura可悠然京东自营旗舰店",
+                "items": [
+                    { "name": "可悠然沐浴露恬静清香550ML", "price": 27.32 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "Sodolike清洁京东自营旗舰店",
+                "items": [
+                    { "name": "尚岛背心垃圾袋黑色50*65cm150只", "price": 6.50 }
+                ]
+            }, {
+                "shop": "京东",
+                "note": "vilosi京东自营旗舰店",
+                "items": [
+                    { "name": "卫洛仕下水道除臭剂500ML", "price": 12.90 }
                 ]
             }
         ]
