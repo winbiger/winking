@@ -25202,6 +25202,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "巴彦卓尔黄糯玉米1kg", "price": 19.90 }
                 ]
             }
+        ],
+        "2026-06-21": [
+            {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 午餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "有机红洋葱1kg", "price": 15.90 },
+                    { "name": "甜椒香蒜手枪腿1.2kg", "price": 49.90 },
+                    { "name": "康沙板栗薯1kg", "price": 17.90 },
+                    { "name": "弱碱性饮用水4L", "price": 8.80 },
+                    { "name": "黄瓜1kg", "price": 9.90 },
+                    { "name": "有机胡萝卜1kg", "price": 11.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }
         ]
 
     };
