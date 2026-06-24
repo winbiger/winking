@@ -25265,6 +25265,38 @@ document.addEventListener("DOMContentLoaded", function () {
                     { "name": "Swisse斯维诗维他命D+钙", "price": 21.38 }
                 ]
             }
+        ],
+        "2026-06-24": [
+            {
+                "shop": "支",
+                "note": "上海公共交通卡股份有限公司",
+                "items": [
+                    { "name": "上海地铁-康恒路⇌宁国路", "price": 8.00 }
+                ]
+            }, {
+                "shop": "微信",
+                "note": "上海宜家家居有限公司浦东分公司北蔡商场",
+                "items": [
+                    { "name": "宜家兼职员工餐 晚餐", "price": 10.00 }
+                ]
+            }, {
+                "shop": "叮咚",
+                "items": [
+                    { "name": "香菜100g", "price": 1.99 },
+                    { "name": "松花鸭皮蛋6枚375g", "price": 10.90 },
+                    { "name": "南街村老北京方便面65g*5", "price": 6.90 },
+                    { "name": "怡宝纯净水6L*3桶/箱", "price": 24.90 },
+                    { "name": "鲜抽黄糯玉米4根装", "price": 16.90 }
+                ]
+            }, {
+                "shop": "山姆",
+                "note": "山姆会员店(上海浦东店)",
+                "items": [
+                    { "name": "派对炸鸡组合1.2kg", "price": 69.90 },
+                    { "name": "厨房纸巾16卷", "price": 49.90 },
+                    { "name": "包装费", "price": 2.00 }
+                ]
+            }
         ]
 
     };
